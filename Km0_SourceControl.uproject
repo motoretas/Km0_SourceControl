@@ -49,6 +49,11 @@
 				"Win64",
 				"Android"
 			]
+		},
+		{
+			"Name": "EasyFileDialog",
+			"Enabled": false,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/bcf64fe2e00c48189d8385a9c39b6e61"
 		}
 	],
 	"TargetPlatforms": [
