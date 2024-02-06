@@ -1,0 +1,1701 @@
+Begin Object Class=/Script/UMGEditor.WidgetBlueprint Name="WBP_Graph_11_POMDALT"
+   Begin Object Class=/Script/UMG.WidgetTree Name="WidgetTree" Archetype=WidgetTree'/Script/UMGEditor.Default__WidgetBlueprint:WidgetTree'
+      Begin Object Class=/Script/UMG.Border Name="Border_11"
+         Begin Object Class=/Script/UMG.BorderSlot Name="BorderSlot_0"
+         End Object
+      End Object
+      Begin Object Class=/Script/UMG.Border Name="Border_10"
+         Begin Object Class=/Script/UMG.BorderSlot Name="BorderSlot_0"
+         End Object
+      End Object
+      Begin Object Class=/Script/UMG.VerticalBox Name="VerticalBox"
+         Begin Object Class=/Script/UMG.VerticalBoxSlot Name="VerticalBoxSlot_4"
+         End Object
+         Begin Object Class=/Script/UMG.VerticalBoxSlot Name="VerticalBoxSlot_2"
+         End Object
+      End Object
+      Begin Object Class=/Script/UMG.Border Name="Border_1"
+      End Object
+      Begin Object Class=/Script/UMG.CanvasPanel Name="CanvasPanel_0"
+         Begin Object Class=/Script/UMG.CanvasPanelSlot Name="CanvasPanelSlot_92"
+         End Object
+         Begin Object Class=/Script/UMG.CanvasPanelSlot Name="CanvasPanelSlot_87"
+         End Object
+         Begin Object Class=/Script/UMG.CanvasPanelSlot Name="CanvasPanelSlot_74"
+         End Object
+         Begin Object Class=/Script/UMG.CanvasPanelSlot Name="CanvasPanelSlot_69"
+         End Object
+         Begin Object Class=/Script/UMG.CanvasPanelSlot Name="CanvasPanelSlot_63"
+         End Object
+         Begin Object Class=/Script/UMG.CanvasPanelSlot Name="CanvasPanelSlot_59"
+         End Object
+         Begin Object Class=/Script/UMG.CanvasPanelSlot Name="CanvasPanelSlot_4"
+         End Object
+         Begin Object Class=/Script/UMG.CanvasPanelSlot Name="CanvasPanelSlot_3"
+         End Object
+         Begin Object Class=/Script/UMG.CanvasPanelSlot Name="CanvasPanelSlot_0"
+         End Object
+         Begin Object Class=/Script/UMG.CanvasPanelSlot Name="CanvasPanelSlot_78"
+         End Object
+         Begin Object Class=/Script/UMG.CanvasPanelSlot Name="CanvasPanelSlot_93"
+         End Object
+      End Object
+      Begin Object Class=/Script/UMG.Border Name="Border"
+         Begin Object Class=/Script/UMG.BorderSlot Name="BorderSlot_0"
+         End Object
+      End Object
+      Begin Object Class=/Script/UMG.VerticalBox Name="VerticalBox_7"
+         Begin Object Class=/Script/UMG.VerticalBoxSlot Name="VerticalBoxSlot_4"
+         End Object
+         Begin Object Class=/Script/UMG.VerticalBoxSlot Name="VerticalBoxSlot_2"
+         End Object
+      End Object
+      Begin Object Class=/Script/UMG.Border Name="Border_9"
+      End Object
+      Begin Object Class=/Script/UMG.VerticalBox Name="VerticalBox_10"
+         Begin Object Class=/Script/UMG.VerticalBoxSlot Name="VerticalBoxSlot_1"
+         End Object
+      End Object
+      Begin Object Class=/Script/UMG.TextBlock Name="TextC"
+      End Object
+      Begin Object Class=/Script/UMG.TextBlock Name="TextA"
+      End Object
+      Begin Object Class=/Script/UMG.TextBlock Name="TextB"
+      End Object
+      Begin Object Class=/Script/UMG.TextBlock Name="Text1_8"
+      End Object
+      Begin Object Class=/Script/UMG.Image Name="Image_8"
+      End Object
+      Begin Object Class=/Script/UMG.HorizontalBox Name="HorizontalBox_8"
+         Begin Object Class=/Script/UMG.HorizontalBoxSlot Name="HorizontalBoxSlot_4"
+         End Object
+         Begin Object Class=/Script/UMG.HorizontalBoxSlot Name="HorizontalBoxSlot_2"
+         End Object
+      End Object
+      Begin Object Class=/Script/UMG.VerticalBox Name="VerticalBox_8"
+         Begin Object Class=/Script/UMG.VerticalBoxSlot Name="VerticalBoxSlot_7"
+         End Object
+         Begin Object Class=/Script/UMG.VerticalBoxSlot Name="VerticalBoxSlot_1"
+         End Object
+      End Object
+      Begin Object Class=/Script/UMG.HorizontalBox Name="HorizontalBox8"
+         Begin Object Class=/Script/UMG.HorizontalBoxSlot Name="HorizontalBoxSlot_0"
+         End Object
+      End Object
+      Begin Object Class=/Script/UMG.TextBlock Name="Text1_2"
+      End Object
+      Begin Object Class=/Script/UMG.Image Name="Image_1"
+      End Object
+      Begin Object Class=/Script/UMG.HorizontalBox Name="HorizontalBox_1"
+         Begin Object Class=/Script/UMG.HorizontalBoxSlot Name="HorizontalBoxSlot_4"
+         End Object
+         Begin Object Class=/Script/UMG.HorizontalBoxSlot Name="HorizontalBoxSlot_2"
+         End Object
+      End Object
+      Begin Object Class=/Script/UMG.HorizontalBox Name="HorizontalBox6"
+         Begin Object Class=/Script/UMG.HorizontalBoxSlot Name="HorizontalBoxSlot_0"
+         End Object
+      End Object
+      Begin Object Class=/Script/UMG.TextBlock Name="Text1"
+      End Object
+      Begin Object Class=/Script/UMG.Image Name="Image"
+      End Object
+      Begin Object Class=/Script/UMG.HorizontalBox Name="HorizontalBox"
+         Begin Object Class=/Script/UMG.HorizontalBoxSlot Name="HorizontalBoxSlot_4"
+         End Object
+         Begin Object Class=/Script/UMG.HorizontalBoxSlot Name="HorizontalBoxSlot_2"
+         End Object
+      End Object
+      Begin Object Class=/Script/UMG.HorizontalBox Name="HorizontalBox3"
+         Begin Object Class=/Script/UMG.HorizontalBoxSlot Name="HorizontalBoxSlot_0"
+         End Object
+      End Object
+      Begin Object Class=/Script/UMG.TextBlock Name="Text1_4"
+      End Object
+      Begin Object Class=/Script/UMG.Image Name="Image_4"
+      End Object
+      Begin Object Class=/Script/UMG.HorizontalBox Name="HorizontalBox_4"
+         Begin Object Class=/Script/UMG.HorizontalBoxSlot Name="HorizontalBoxSlot_4"
+         End Object
+         Begin Object Class=/Script/UMG.HorizontalBoxSlot Name="HorizontalBoxSlot_2"
+         End Object
+      End Object
+      Begin Object Class=/Script/UMG.HorizontalBox Name="HorizontalBox2"
+         Begin Object Class=/Script/UMG.HorizontalBoxSlot Name="HorizontalBoxSlot_0"
+         End Object
+      End Object
+      Begin Object Class=/Script/UMG.TextBlock Name="Text1_6"
+      End Object
+      Begin Object Class=/Script/UMG.Image Name="Image_6"
+      End Object
+      Begin Object Class=/Script/UMG.HorizontalBox Name="HorizontalBox_6"
+         Begin Object Class=/Script/UMG.HorizontalBoxSlot Name="HorizontalBoxSlot_4"
+         End Object
+         Begin Object Class=/Script/UMG.HorizontalBoxSlot Name="HorizontalBoxSlot_2"
+         End Object
+      End Object
+      Begin Object Class=/Script/UMG.HorizontalBox Name="HorizontalBox1_4"
+         Begin Object Class=/Script/UMG.HorizontalBoxSlot Name="HorizontalBoxSlot_0"
+         End Object
+      End Object
+      Begin Object Class=/Script/UMG.TextBlock Name="Text1_3"
+      End Object
+      Begin Object Class=/Script/UMG.Image Name="Image_3"
+      End Object
+      Begin Object Class=/Script/UMG.HorizontalBox Name="HorizontalBox_3"
+         Begin Object Class=/Script/UMG.HorizontalBoxSlot Name="HorizontalBoxSlot_4"
+         End Object
+         Begin Object Class=/Script/UMG.HorizontalBoxSlot Name="HorizontalBoxSlot_2"
+         End Object
+      End Object
+      Begin Object Class=/Script/UMG.HorizontalBox Name="HorizontalBox1_3"
+         Begin Object Class=/Script/UMG.HorizontalBoxSlot Name="HorizontalBoxSlot_0"
+         End Object
+      End Object
+      Begin Object Class=/Script/UMG.TextBlock Name="Text1_7"
+      End Object
+      Begin Object Class=/Script/UMG.Image Name="Image_7"
+      End Object
+      Begin Object Class=/Script/UMG.HorizontalBox Name="HorizontalBox_7"
+         Begin Object Class=/Script/UMG.HorizontalBoxSlot Name="HorizontalBoxSlot_4"
+         End Object
+         Begin Object Class=/Script/UMG.HorizontalBoxSlot Name="HorizontalBoxSlot_2"
+         End Object
+      End Object
+      Begin Object Class=/Script/UMG.HorizontalBox Name="HorizontalBox1_1"
+         Begin Object Class=/Script/UMG.HorizontalBoxSlot Name="HorizontalBoxSlot_0"
+         End Object
+      End Object
+      Begin Object Class=/Script/UMG.TextBlock Name="Text1_1"
+      End Object
+      Begin Object Class=/Script/UMG.Image Name="Image_2"
+      End Object
+      Begin Object Class=/Script/UMG.HorizontalBox Name="HorizontalBox_2"
+         Begin Object Class=/Script/UMG.HorizontalBoxSlot Name="HorizontalBoxSlot_4"
+         End Object
+         Begin Object Class=/Script/UMG.HorizontalBoxSlot Name="HorizontalBoxSlot_2"
+         End Object
+      End Object
+      Begin Object Class=/Script/UMG.HorizontalBox Name="HorizontalBox1"
+         Begin Object Class=/Script/UMG.HorizontalBoxSlot Name="HorizontalBoxSlot_0"
+         End Object
+      End Object
+      Begin Object Class=/Script/UMG.Border Name="Border_8"
+      End Object
+      Begin Object Class=/Script/UMG.VerticalBox Name="VerticalBox_6"
+         Begin Object Class=/Script/UMG.VerticalBoxSlot Name="VerticalBoxSlot_2"
+         End Object
+         Begin Object Class=/Script/UMG.VerticalBoxSlot Name="VerticalBoxSlot_4"
+         End Object
+      End Object
+      Begin Object Class=/Script/UMG.Border Name="Border_7"
+      End Object
+      Begin Object Class=/Script/UMG.VerticalBox Name="VerticalBox_5"
+         Begin Object Class=/Script/UMG.VerticalBoxSlot Name="VerticalBoxSlot_3"
+         End Object
+         Begin Object Class=/Script/UMG.VerticalBoxSlot Name="VerticalBoxSlot_1"
+         End Object
+      End Object
+      Begin Object Class=/Script/UMG.Border Name="Border_6"
+      End Object
+      Begin Object Class=/Script/UMG.VerticalBox Name="VerticalBox_4"
+         Begin Object Class=/Script/UMG.VerticalBoxSlot Name="VerticalBoxSlot_2"
+         End Object
+         Begin Object Class=/Script/UMG.VerticalBoxSlot Name="VerticalBoxSlot_4"
+         End Object
+      End Object
+      Begin Object Class=/Script/UMG.Border Name="Border_5"
+      End Object
+      Begin Object Class=/Script/UMG.VerticalBox Name="VerticalBox_2"
+         Begin Object Class=/Script/UMG.VerticalBoxSlot Name="VerticalBoxSlot_6"
+         End Object
+         Begin Object Class=/Script/UMG.VerticalBoxSlot Name="VerticalBoxSlot_1"
+         End Object
+      End Object
+      Begin Object Class=/Script/UMG.Border Name="Border_3"
+      End Object
+      Begin Object Class=/Script/UMG.VerticalBox Name="VerticalBox_1"
+         Begin Object Class=/Script/UMG.VerticalBoxSlot Name="VerticalBoxSlot_5"
+         End Object
+         Begin Object Class=/Script/UMG.VerticalBoxSlot Name="VerticalBoxSlot_1"
+         End Object
+      End Object
+      Begin Object Class=/Script/UMG.Border Name="Border_2"
+      End Object
+   End Object
+   Begin Object Class=/Script/Engine.EdGraph Name="EventGraph"
+      Begin Object Class=/Script/BlueprintGraph.K2Node_Event Name="K2Node_Event_2"
+      End Object
+   End Object
+   Begin Object Class=/Script/UMG.WidgetAnimation Name="intro"
+      Begin Object Class=/Script/MovieScene.MovieScene Name="intro"
+         Begin Object Class=/Script/MovieSceneTracks.MovieSceneFloatTrack Name="MovieSceneFloatTrack_2"
+            Begin Object Class=/Script/MovieSceneTracks.MovieSceneFloatSection Name="MovieSceneFloatSection_0"
+               Begin Object Class=/Script/MovieScene.MovieSceneBuiltInEasingFunction Name="EaseOutFunction" Archetype=MovieSceneBuiltInEasingFunction'/Script/MovieSceneTracks.Default__MovieSceneFloatSection:EaseOutFunction'
+               End Object
+               Begin Object Class=/Script/MovieScene.MovieSceneBuiltInEasingFunction Name="EaseInFunction" Archetype=MovieSceneBuiltInEasingFunction'/Script/MovieSceneTracks.Default__MovieSceneFloatSection:EaseInFunction'
+               End Object
+            End Object
+         End Object
+         Begin Object Class=/Script/MovieSceneTracks.MovieSceneFloatTrack Name="MovieSceneFloatTrack_1"
+            Begin Object Class=/Script/MovieSceneTracks.MovieSceneFloatSection Name="MovieSceneFloatSection_0"
+               Begin Object Class=/Script/MovieScene.MovieSceneBuiltInEasingFunction Name="EaseOutFunction" Archetype=MovieSceneBuiltInEasingFunction'/Script/MovieSceneTracks.Default__MovieSceneFloatSection:EaseOutFunction'
+               End Object
+               Begin Object Class=/Script/MovieScene.MovieSceneBuiltInEasingFunction Name="EaseInFunction" Archetype=MovieSceneBuiltInEasingFunction'/Script/MovieSceneTracks.Default__MovieSceneFloatSection:EaseInFunction'
+               End Object
+            End Object
+         End Object
+         Begin Object Class=/Script/MovieSceneTracks.MovieSceneFloatTrack Name="MovieSceneFloatTrack_0"
+            Begin Object Class=/Script/MovieSceneTracks.MovieSceneFloatSection Name="MovieSceneFloatSection_0"
+               Begin Object Class=/Script/MovieScene.MovieSceneBuiltInEasingFunction Name="EaseOutFunction" Archetype=MovieSceneBuiltInEasingFunction'/Script/MovieSceneTracks.Default__MovieSceneFloatSection:EaseOutFunction'
+               End Object
+               Begin Object Class=/Script/MovieScene.MovieSceneBuiltInEasingFunction Name="EaseInFunction" Archetype=MovieSceneBuiltInEasingFunction'/Script/MovieSceneTracks.Default__MovieSceneFloatSection:EaseInFunction'
+               End Object
+            End Object
+         End Object
+         Begin Object Class=/Script/UMG.MovieScene2DTransformTrack Name="MovieScene2DTransformTrack_9"
+            Begin Object Class=/Script/UMG.MovieScene2DTransformSection Name="MovieScene2DTransformSection_0"
+               Begin Object Class=/Script/MovieScene.MovieSceneBuiltInEasingFunction Name="EaseOutFunction" Archetype=MovieSceneBuiltInEasingFunction'/Script/UMG.Default__MovieScene2DTransformSection:EaseOutFunction'
+               End Object
+               Begin Object Class=/Script/MovieScene.MovieSceneBuiltInEasingFunction Name="EaseInFunction" Archetype=MovieSceneBuiltInEasingFunction'/Script/UMG.Default__MovieScene2DTransformSection:EaseInFunction'
+               End Object
+            End Object
+         End Object
+         Begin Object Class=/Script/UMG.MovieScene2DTransformTrack Name="MovieScene2DTransformTrack_8"
+            Begin Object Class=/Script/UMG.MovieScene2DTransformSection Name="MovieScene2DTransformSection_0"
+               Begin Object Class=/Script/MovieScene.MovieSceneBuiltInEasingFunction Name="EaseOutFunction" Archetype=MovieSceneBuiltInEasingFunction'/Script/UMG.Default__MovieScene2DTransformSection:EaseOutFunction'
+               End Object
+               Begin Object Class=/Script/MovieScene.MovieSceneBuiltInEasingFunction Name="EaseInFunction" Archetype=MovieSceneBuiltInEasingFunction'/Script/UMG.Default__MovieScene2DTransformSection:EaseInFunction'
+               End Object
+            End Object
+         End Object
+         Begin Object Class=/Script/UMG.MovieScene2DTransformTrack Name="MovieScene2DTransformTrack_7"
+            Begin Object Class=/Script/UMG.MovieScene2DTransformSection Name="MovieScene2DTransformSection_0"
+               Begin Object Class=/Script/MovieScene.MovieSceneBuiltInEasingFunction Name="EaseOutFunction" Archetype=MovieSceneBuiltInEasingFunction'/Script/UMG.Default__MovieScene2DTransformSection:EaseOutFunction'
+               End Object
+               Begin Object Class=/Script/MovieScene.MovieSceneBuiltInEasingFunction Name="EaseInFunction" Archetype=MovieSceneBuiltInEasingFunction'/Script/UMG.Default__MovieScene2DTransformSection:EaseInFunction'
+               End Object
+            End Object
+         End Object
+         Begin Object Class=/Script/UMG.MovieScene2DTransformTrack Name="MovieScene2DTransformTrack_6"
+            Begin Object Class=/Script/UMG.MovieScene2DTransformSection Name="MovieScene2DTransformSection_0"
+               Begin Object Class=/Script/MovieScene.MovieSceneBuiltInEasingFunction Name="EaseOutFunction" Archetype=MovieSceneBuiltInEasingFunction'/Script/UMG.Default__MovieScene2DTransformSection:EaseOutFunction'
+               End Object
+               Begin Object Class=/Script/MovieScene.MovieSceneBuiltInEasingFunction Name="EaseInFunction" Archetype=MovieSceneBuiltInEasingFunction'/Script/UMG.Default__MovieScene2DTransformSection:EaseInFunction'
+               End Object
+            End Object
+         End Object
+         Begin Object Class=/Script/UMG.MovieScene2DTransformTrack Name="MovieScene2DTransformTrack_5"
+            Begin Object Class=/Script/UMG.MovieScene2DTransformSection Name="MovieScene2DTransformSection_0"
+               Begin Object Class=/Script/MovieScene.MovieSceneBuiltInEasingFunction Name="EaseOutFunction" Archetype=MovieSceneBuiltInEasingFunction'/Script/UMG.Default__MovieScene2DTransformSection:EaseOutFunction'
+               End Object
+               Begin Object Class=/Script/MovieScene.MovieSceneBuiltInEasingFunction Name="EaseInFunction" Archetype=MovieSceneBuiltInEasingFunction'/Script/UMG.Default__MovieScene2DTransformSection:EaseInFunction'
+               End Object
+            End Object
+         End Object
+         Begin Object Class=/Script/UMG.MovieScene2DTransformTrack Name="MovieScene2DTransformTrack_4"
+            Begin Object Class=/Script/UMG.MovieScene2DTransformSection Name="MovieScene2DTransformSection_0"
+               Begin Object Class=/Script/MovieScene.MovieSceneBuiltInEasingFunction Name="EaseOutFunction" Archetype=MovieSceneBuiltInEasingFunction'/Script/UMG.Default__MovieScene2DTransformSection:EaseOutFunction'
+               End Object
+               Begin Object Class=/Script/MovieScene.MovieSceneBuiltInEasingFunction Name="EaseInFunction" Archetype=MovieSceneBuiltInEasingFunction'/Script/UMG.Default__MovieScene2DTransformSection:EaseInFunction'
+               End Object
+            End Object
+         End Object
+         Begin Object Class=/Script/UMG.MovieScene2DTransformTrack Name="MovieScene2DTransformTrack_3"
+            Begin Object Class=/Script/UMG.MovieScene2DTransformSection Name="MovieScene2DTransformSection_0"
+               Begin Object Class=/Script/MovieScene.MovieSceneBuiltInEasingFunction Name="EaseOutFunction" Archetype=MovieSceneBuiltInEasingFunction'/Script/UMG.Default__MovieScene2DTransformSection:EaseOutFunction'
+               End Object
+               Begin Object Class=/Script/MovieScene.MovieSceneBuiltInEasingFunction Name="EaseInFunction" Archetype=MovieSceneBuiltInEasingFunction'/Script/UMG.Default__MovieScene2DTransformSection:EaseInFunction'
+               End Object
+            End Object
+         End Object
+         Begin Object Class=/Script/UMG.MovieScene2DTransformTrack Name="MovieScene2DTransformTrack_2"
+            Begin Object Class=/Script/UMG.MovieScene2DTransformSection Name="MovieScene2DTransformSection_0"
+               Begin Object Class=/Script/MovieScene.MovieSceneBuiltInEasingFunction Name="EaseOutFunction" Archetype=MovieSceneBuiltInEasingFunction'/Script/UMG.Default__MovieScene2DTransformSection:EaseOutFunction'
+               End Object
+               Begin Object Class=/Script/MovieScene.MovieSceneBuiltInEasingFunction Name="EaseInFunction" Archetype=MovieSceneBuiltInEasingFunction'/Script/UMG.Default__MovieScene2DTransformSection:EaseInFunction'
+               End Object
+            End Object
+         End Object
+         Begin Object Class=/Script/UMG.MovieScene2DTransformTrack Name="MovieScene2DTransformTrack_1"
+            Begin Object Class=/Script/UMG.MovieScene2DTransformSection Name="MovieScene2DTransformSection_0"
+               Begin Object Class=/Script/MovieScene.MovieSceneBuiltInEasingFunction Name="EaseOutFunction" Archetype=MovieSceneBuiltInEasingFunction'/Script/UMG.Default__MovieScene2DTransformSection:EaseOutFunction'
+               End Object
+               Begin Object Class=/Script/MovieScene.MovieSceneBuiltInEasingFunction Name="EaseInFunction" Archetype=MovieSceneBuiltInEasingFunction'/Script/UMG.Default__MovieScene2DTransformSection:EaseInFunction'
+               End Object
+            End Object
+         End Object
+         Begin Object Class=/Script/UMG.MovieSceneMarginTrack Name="MovieSceneMarginTrack_8"
+            Begin Object Class=/Script/UMG.MovieSceneMarginSection Name="MovieSceneMarginSection_0"
+               Begin Object Class=/Script/MovieScene.MovieSceneBuiltInEasingFunction Name="EaseOutFunction" Archetype=MovieSceneBuiltInEasingFunction'/Script/UMG.Default__MovieSceneMarginSection:EaseOutFunction'
+               End Object
+               Begin Object Class=/Script/MovieScene.MovieSceneBuiltInEasingFunction Name="EaseInFunction" Archetype=MovieSceneBuiltInEasingFunction'/Script/UMG.Default__MovieSceneMarginSection:EaseInFunction'
+               End Object
+            End Object
+         End Object
+         Begin Object Class=/Script/UMG.MovieSceneMarginTrack Name="MovieSceneMarginTrack_7"
+            Begin Object Class=/Script/UMG.MovieSceneMarginSection Name="MovieSceneMarginSection_0"
+               Begin Object Class=/Script/MovieScene.MovieSceneBuiltInEasingFunction Name="EaseOutFunction" Archetype=MovieSceneBuiltInEasingFunction'/Script/UMG.Default__MovieSceneMarginSection:EaseOutFunction'
+               End Object
+               Begin Object Class=/Script/MovieScene.MovieSceneBuiltInEasingFunction Name="EaseInFunction" Archetype=MovieSceneBuiltInEasingFunction'/Script/UMG.Default__MovieSceneMarginSection:EaseInFunction'
+               End Object
+            End Object
+         End Object
+         Begin Object Class=/Script/UMG.MovieSceneMarginTrack Name="MovieSceneMarginTrack_6"
+            Begin Object Class=/Script/UMG.MovieSceneMarginSection Name="MovieSceneMarginSection_0"
+               Begin Object Class=/Script/MovieScene.MovieSceneBuiltInEasingFunction Name="EaseOutFunction" Archetype=MovieSceneBuiltInEasingFunction'/Script/UMG.Default__MovieSceneMarginSection:EaseOutFunction'
+               End Object
+               Begin Object Class=/Script/MovieScene.MovieSceneBuiltInEasingFunction Name="EaseInFunction" Archetype=MovieSceneBuiltInEasingFunction'/Script/UMG.Default__MovieSceneMarginSection:EaseInFunction'
+               End Object
+            End Object
+         End Object
+         Begin Object Class=/Script/UMG.MovieSceneMarginTrack Name="MovieSceneMarginTrack_5"
+            Begin Object Class=/Script/UMG.MovieSceneMarginSection Name="MovieSceneMarginSection_0"
+               Begin Object Class=/Script/MovieScene.MovieSceneBuiltInEasingFunction Name="EaseOutFunction" Archetype=MovieSceneBuiltInEasingFunction'/Script/UMG.Default__MovieSceneMarginSection:EaseOutFunction'
+               End Object
+               Begin Object Class=/Script/MovieScene.MovieSceneBuiltInEasingFunction Name="EaseInFunction" Archetype=MovieSceneBuiltInEasingFunction'/Script/UMG.Default__MovieSceneMarginSection:EaseInFunction'
+               End Object
+            End Object
+         End Object
+         Begin Object Class=/Script/UMG.MovieSceneMarginTrack Name="MovieSceneMarginTrack_4"
+            Begin Object Class=/Script/UMG.MovieSceneMarginSection Name="MovieSceneMarginSection_0"
+               Begin Object Class=/Script/MovieScene.MovieSceneBuiltInEasingFunction Name="EaseOutFunction" Archetype=MovieSceneBuiltInEasingFunction'/Script/UMG.Default__MovieSceneMarginSection:EaseOutFunction'
+               End Object
+               Begin Object Class=/Script/MovieScene.MovieSceneBuiltInEasingFunction Name="EaseInFunction" Archetype=MovieSceneBuiltInEasingFunction'/Script/UMG.Default__MovieSceneMarginSection:EaseInFunction'
+               End Object
+            End Object
+         End Object
+         Begin Object Class=/Script/UMG.MovieSceneMarginTrack Name="MovieSceneMarginTrack_3"
+            Begin Object Class=/Script/UMG.MovieSceneMarginSection Name="MovieSceneMarginSection_0"
+               Begin Object Class=/Script/MovieScene.MovieSceneBuiltInEasingFunction Name="EaseOutFunction" Archetype=MovieSceneBuiltInEasingFunction'/Script/UMG.Default__MovieSceneMarginSection:EaseOutFunction'
+               End Object
+               Begin Object Class=/Script/MovieScene.MovieSceneBuiltInEasingFunction Name="EaseInFunction" Archetype=MovieSceneBuiltInEasingFunction'/Script/UMG.Default__MovieSceneMarginSection:EaseInFunction'
+               End Object
+            End Object
+         End Object
+         Begin Object Class=/Script/UMG.MovieSceneMarginTrack Name="MovieSceneMarginTrack_2"
+            Begin Object Class=/Script/UMG.MovieSceneMarginSection Name="MovieSceneMarginSection_0"
+               Begin Object Class=/Script/MovieScene.MovieSceneBuiltInEasingFunction Name="EaseOutFunction" Archetype=MovieSceneBuiltInEasingFunction'/Script/UMG.Default__MovieSceneMarginSection:EaseOutFunction'
+               End Object
+               Begin Object Class=/Script/MovieScene.MovieSceneBuiltInEasingFunction Name="EaseInFunction" Archetype=MovieSceneBuiltInEasingFunction'/Script/UMG.Default__MovieSceneMarginSection:EaseInFunction'
+               End Object
+            End Object
+         End Object
+         Begin Object Class=/Script/UMG.MovieSceneMarginTrack Name="MovieSceneMarginTrack_1"
+            Begin Object Class=/Script/UMG.MovieSceneMarginSection Name="MovieSceneMarginSection_0"
+               Begin Object Class=/Script/MovieScene.MovieSceneBuiltInEasingFunction Name="EaseOutFunction" Archetype=MovieSceneBuiltInEasingFunction'/Script/UMG.Default__MovieSceneMarginSection:EaseOutFunction'
+               End Object
+               Begin Object Class=/Script/MovieScene.MovieSceneBuiltInEasingFunction Name="EaseInFunction" Archetype=MovieSceneBuiltInEasingFunction'/Script/UMG.Default__MovieSceneMarginSection:EaseInFunction'
+               End Object
+            End Object
+         End Object
+         Begin Object Class=/Script/UMG.MovieSceneMarginTrack Name="MovieSceneMarginTrack_0"
+            Begin Object Class=/Script/UMG.MovieSceneMarginSection Name="MovieSceneMarginSection_0"
+               Begin Object Class=/Script/MovieScene.MovieSceneBuiltInEasingFunction Name="EaseOutFunction" Archetype=MovieSceneBuiltInEasingFunction'/Script/UMG.Default__MovieSceneMarginSection:EaseOutFunction'
+               End Object
+               Begin Object Class=/Script/MovieScene.MovieSceneBuiltInEasingFunction Name="EaseInFunction" Archetype=MovieSceneBuiltInEasingFunction'/Script/UMG.Default__MovieSceneMarginSection:EaseInFunction'
+               End Object
+            End Object
+         End Object
+         Begin Object Class=/Script/MovieScene.MovieSceneNodeGroupCollection Name="NodeGroupCollection" Archetype=MovieSceneNodeGroupCollection'/Script/MovieScene.Default__MovieScene:NodeGroupCollection'
+            Begin Object Class=/Script/MovieScene.MovieSceneNodeGroup Name="MovieSceneNodeGroup_0"
+            End Object
+         End Object
+      End Object
+   End Object
+   Begin Object Name="WidgetTree"
+      Begin Object Name="Border_11"
+         Begin Object Name="BorderSlot_0"
+            Padding=(Top=4.000000,Bottom=4.000000)
+            Parent=Border'"WBP_Graph_11_POMDALT:WidgetTree.Border_11"'
+            Content=TextBlock'"WBP_Graph_11_POMDALT:WidgetTree.TextA"'
+         End Object
+         Padding=(Top=4.000000,Bottom=4.000000)
+         Slots(0)=BorderSlot'"BorderSlot_0"'
+         RenderTransform=(Angle=-90.000000)
+         bExpandedInDesigner=True
+      End Object
+      Begin Object Name="Border_10"
+         Begin Object Name="BorderSlot_0"
+            Padding=(Top=4.000000,Bottom=4.000000)
+            Parent=Border'"WBP_Graph_11_POMDALT:WidgetTree.Border_10"'
+            Content=TextBlock'"WBP_Graph_11_POMDALT:WidgetTree.TextC"'
+         End Object
+         Padding=(Top=4.000000,Bottom=4.000000)
+         BrushColor=(R=1.000000,G=1.000000,B=1.000000,A=0.000000)
+         Slots(0)=BorderSlot'"BorderSlot_0"'
+         RenderTransform=(Angle=-90.000000)
+         bExpandedInDesigner=True
+      End Object
+      Begin Object Name="VerticalBox"
+         Begin Object Name="VerticalBoxSlot_4"
+            Parent=VerticalBox'"WBP_Graph_11_POMDALT:WidgetTree.VerticalBox"'
+            Content=Border'"WBP_Graph_11_POMDALT:WidgetTree.Border_1"'
+         End Object
+         Begin Object Name="VerticalBoxSlot_2"
+            Padding=(Left=150.000000,Bottom=7.000000)
+            Parent=VerticalBox'"WBP_Graph_11_POMDALT:WidgetTree.VerticalBox"'
+            Content=HorizontalBox'"WBP_Graph_11_POMDALT:WidgetTree.HorizontalBox_2"'
+         End Object
+         Slots(0)=VerticalBoxSlot'"VerticalBoxSlot_2"'
+         Slots(1)=VerticalBoxSlot'"VerticalBoxSlot_4"'
+         bExpandedInDesigner=True
+      End Object
+      Begin Object Name="Border_1"
+         BrushColor=(R=0.490196,G=0.070588,B=0.149020,A=1.000000)
+         bExpandedInDesigner=True
+         DisplayLabel="Border_1"
+      End Object
+      Begin Object Name="CanvasPanel_0"
+         Begin Object Name="CanvasPanelSlot_92"
+            LayoutData=(Offsets=(Left=-36.000000,Top=1936.000000))
+            bAutoSize=True
+            Parent=CanvasPanel'"WBP_Graph_11_POMDALT:WidgetTree.CanvasPanel_0"'
+            Content=Border'"WBP_Graph_11_POMDALT:WidgetTree.Border_10"'
+         End Object
+         Begin Object Name="CanvasPanelSlot_87"
+            LayoutData=(Offsets=(Left=-48.000000,Top=888.000000))
+            bAutoSize=True
+            Parent=CanvasPanel'"WBP_Graph_11_POMDALT:WidgetTree.CanvasPanel_0"'
+            Content=Border'"WBP_Graph_11_POMDALT:WidgetTree.Border"'
+         End Object
+         Begin Object Name="CanvasPanelSlot_74"
+            LayoutData=(Offsets=(Left=150.000000,Top=1992.502441,Right=800.000000,Bottom=60.000000))
+            Parent=CanvasPanel'"WBP_Graph_11_POMDALT:WidgetTree.CanvasPanel_0"'
+            Content=HorizontalBox'"WBP_Graph_11_POMDALT:WidgetTree.HorizontalBox8"'
+         End Object
+         Begin Object Name="CanvasPanelSlot_69"
+            LayoutData=(Offsets=(Left=150.000000,Top=1520.000000,Right=800.000000,Bottom=60.000000))
+            Parent=CanvasPanel'"WBP_Graph_11_POMDALT:WidgetTree.CanvasPanel_0"'
+            Content=HorizontalBox'"WBP_Graph_11_POMDALT:WidgetTree.HorizontalBox6"'
+         End Object
+         Begin Object Name="CanvasPanelSlot_63"
+            LayoutData=(Offsets=(Left=150.000000,Top=1106.902344,Right=800.000000,Bottom=60.000000))
+            Parent=CanvasPanel'"WBP_Graph_11_POMDALT:WidgetTree.CanvasPanel_0"'
+            Content=HorizontalBox'"WBP_Graph_11_POMDALT:WidgetTree.HorizontalBox3"'
+         End Object
+         Begin Object Name="CanvasPanelSlot_59"
+            LayoutData=(Offsets=(Left=150.000000,Top=848.313293,Right=800.000000,Bottom=60.000000))
+            Parent=CanvasPanel'"WBP_Graph_11_POMDALT:WidgetTree.CanvasPanel_0"'
+            Content=HorizontalBox'"WBP_Graph_11_POMDALT:WidgetTree.HorizontalBox2"'
+         End Object
+         Begin Object Name="CanvasPanelSlot_4"
+            LayoutData=(Offsets=(Left=150.000000,Top=15.000000,Right=800.000000,Bottom=60.000000))
+            Parent=CanvasPanel'"WBP_Graph_11_POMDALT:WidgetTree.CanvasPanel_0"'
+            Content=HorizontalBox'"WBP_Graph_11_POMDALT:WidgetTree.HorizontalBox1_4"'
+         End Object
+         Begin Object Name="CanvasPanelSlot_3"
+            LayoutData=(Offsets=(Left=150.000000,Top=130.000000,Right=800.000000,Bottom=60.000000))
+            Parent=CanvasPanel'"WBP_Graph_11_POMDALT:WidgetTree.CanvasPanel_0"'
+            Content=HorizontalBox'"WBP_Graph_11_POMDALT:WidgetTree.HorizontalBox1_3"'
+         End Object
+         Begin Object Name="CanvasPanelSlot_0"
+            LayoutData=(Offsets=(Left=150.000000,Top=260.000000,Right=800.000000,Bottom=60.000000))
+            Parent=CanvasPanel'"WBP_Graph_11_POMDALT:WidgetTree.CanvasPanel_0"'
+            Content=HorizontalBox'"WBP_Graph_11_POMDALT:WidgetTree.HorizontalBox1_1"'
+         End Object
+         Begin Object Name="CanvasPanelSlot_78"
+            LayoutData=(Offsets=(Left=150.000000,Top=560.012756,Right=800.000000,Bottom=60.000000))
+            Parent=CanvasPanel'"WBP_Graph_11_POMDALT:WidgetTree.CanvasPanel_0"'
+            Content=HorizontalBox'"WBP_Graph_11_POMDALT:WidgetTree.HorizontalBox1"'
+         End Object
+         Begin Object Name="CanvasPanelSlot_93"
+            LayoutData=(Offsets=(Left=-116.000000,Top=128.000000))
+            bAutoSize=True
+            Parent=CanvasPanel'"WBP_Graph_11_POMDALT:WidgetTree.CanvasPanel_0"'
+            Content=Border'"WBP_Graph_11_POMDALT:WidgetTree.Border_11"'
+         End Object
+         Slots(0)=CanvasPanelSlot'"CanvasPanelSlot_78"'
+         Slots(1)=CanvasPanelSlot'"CanvasPanelSlot_0"'
+         Slots(2)=CanvasPanelSlot'"CanvasPanelSlot_3"'
+         Slots(3)=CanvasPanelSlot'"CanvasPanelSlot_4"'
+         Slots(4)=CanvasPanelSlot'"CanvasPanelSlot_59"'
+         Slots(5)=CanvasPanelSlot'"CanvasPanelSlot_63"'
+         Slots(6)=CanvasPanelSlot'"CanvasPanelSlot_69"'
+         Slots(7)=CanvasPanelSlot'"CanvasPanelSlot_74"'
+         Slots(8)=CanvasPanelSlot'"CanvasPanelSlot_87"'
+         Slots(9)=CanvasPanelSlot'"CanvasPanelSlot_93"'
+         Slots(10)=CanvasPanelSlot'"CanvasPanelSlot_92"'
+         bExpandedInDesigner=True
+      End Object
+      Begin Object Name="Border"
+         Begin Object Name="BorderSlot_0"
+            Padding=(Top=4.000000,Bottom=4.000000)
+            Parent=Border'"WBP_Graph_11_POMDALT:WidgetTree.Border"'
+            Content=TextBlock'"WBP_Graph_11_POMDALT:WidgetTree.TextB"'
+         End Object
+         Padding=(Top=4.000000,Bottom=4.000000)
+         BrushColor=(R=1.000000,G=1.000000,B=1.000000,A=0.000000)
+         Slots(0)=BorderSlot'"BorderSlot_0"'
+         RenderTransform=(Angle=-90.000000)
+         bExpandedInDesigner=True
+      End Object
+      Begin Object Name="VerticalBox_7"
+         Begin Object Name="VerticalBoxSlot_4"
+            Parent=VerticalBox'"WBP_Graph_11_POMDALT:WidgetTree.VerticalBox_7"'
+            Content=Border'"WBP_Graph_11_POMDALT:WidgetTree.Border_9"'
+         End Object
+         Begin Object Name="VerticalBoxSlot_2"
+            Padding=(Left=150.000000,Bottom=7.000000)
+            Parent=VerticalBox'"WBP_Graph_11_POMDALT:WidgetTree.VerticalBox_7"'
+            Content=HorizontalBox'"WBP_Graph_11_POMDALT:WidgetTree.HorizontalBox_7"'
+         End Object
+         Slots(0)=VerticalBoxSlot'"VerticalBoxSlot_2"'
+         Slots(1)=VerticalBoxSlot'"VerticalBoxSlot_4"'
+         bExpandedInDesigner=True
+      End Object
+      Begin Object Name="Border_9"
+         BrushColor=(R=0.490196,G=0.070588,B=0.149020,A=1.000000)
+         bExpandedInDesigner=True
+         DisplayLabel="Border_9"
+      End Object
+      Begin Object Name="VerticalBox_10"
+         Begin Object Name="VerticalBoxSlot_1"
+            Parent=VerticalBox'"WBP_Graph_11_POMDALT:WidgetTree.VerticalBox_10"'
+            Content=Border'"WBP_Graph_11_POMDALT:WidgetTree.Border_8"'
+         End Object
+         Slots(0)=VerticalBoxSlot'"VerticalBoxSlot_1"'
+         bExpandedInDesigner=True
+      End Object
+      Begin Object Name="TextC"
+         Text=NSLOCTEXT("[33543D674E5209A6F0E391889728D496]", "347C230E42EA563E43D7E7A855B0D12C", "PINYA")
+         Font=(FontObject=Font'"/Game/Km0MonCasteller/Core/Fonts/Gotham_Medium_Font.Gotham_Medium_Font"',TypefaceFontName="Default",Size=30)
+         bExpandedInDesigner=True
+         RenderOpacity=0.000000
+         DisplayLabel="Text C"
+      End Object
+      Begin Object Name="TextA"
+         Text=NSLOCTEXT("[33543D674E5209A6F0E391889728D496]", "40D4500F4F4AA65DC1888493C241065A", "POM DE D\'ALT")
+         ColorAndOpacity=(SpecifiedColor=(R=1.000000,G=1.000000,B=1.000000,A=0.000000))
+         Font=(FontObject=Font'"/Game/Km0MonCasteller/Core/Fonts/Gotham_Medium_Font.Gotham_Medium_Font"',TypefaceFontName="Default",Size=30)
+         bExpandedInDesigner=True
+         RenderOpacity=0.000000
+         DisplayLabel="Text A"
+      End Object
+      Begin Object Name="TextB"
+         Text=NSLOCTEXT("[33543D674E5209A6F0E391889728D496]", "9F9E6A9A451FAA6331AF63B575AB07FC", "TRONC")
+         ColorAndOpacity=(SpecifiedColor=(R=1.000000,G=1.000000,B=1.000000,A=0.000000))
+         Font=(FontObject=Font'"/Game/Km0MonCasteller/Core/Fonts/Gotham_Medium_Font.Gotham_Medium_Font"',TypefaceFontName="Default",Size=30)
+         bExpandedInDesigner=True
+         RenderOpacity=0.000000
+         DisplayLabel="Text B"
+      End Object
+      Begin Object Name="Text1_8"
+         Text=NSLOCTEXT("[33543D674E5209A6F0E391889728D496]", "EC7E429946AFA17E8EDF99AAABE88CE5", "1.8\r\nM")
+         Font=(FontObject=Font'"/Game/Km0MonCasteller/Core/Fonts/Gotham_Medium_Font.Gotham_Medium_Font"',TypefaceFontName="Default",Size=17)
+         Justification=Center
+         LineHeightPercentage=0.700000
+         RenderTransform=(Translation=(X=0.000000,Y=-5.000000))
+         bExpandedInDesigner=True
+         DisplayLabel="Text 1"
+      End Object
+      Begin Object Name="Image_8"
+         Brush=(ImageSize=(X=12.000000,Y=24.000000),ResourceObject=Texture2D'"/Game/Km0MonCasteller/Virtual/GrafismosUI/ico_Regla.ico_Regla"')
+         RenderTransform=(Translation=(X=0.000000,Y=-1.000000))
+      End Object
+      Begin Object Name="HorizontalBox_8"
+         Begin Object Name="HorizontalBoxSlot_4"
+            Parent=HorizontalBox'"WBP_Graph_11_POMDALT:WidgetTree.HorizontalBox_8"'
+            Content=TextBlock'"WBP_Graph_11_POMDALT:WidgetTree.Text1_8"'
+         End Object
+         Begin Object Name="HorizontalBoxSlot_2"
+            Padding=(Top=2.000000,Right=5.000000)
+            Parent=HorizontalBox'"WBP_Graph_11_POMDALT:WidgetTree.HorizontalBox_8"'
+            Content=Image'"WBP_Graph_11_POMDALT:WidgetTree.Image_8"'
+         End Object
+         Slots(0)=HorizontalBoxSlot'"HorizontalBoxSlot_2"'
+         Slots(1)=HorizontalBoxSlot'"HorizontalBoxSlot_4"'
+         RenderTransform=(Translation=(X=57.000000,Y=-5.000000),Scale=(X=1.200000,Y=1.200000))
+         bExpandedInDesigner=True
+      End Object
+      Begin Object Name="VerticalBox_8"
+         Begin Object Name="VerticalBoxSlot_7"
+            Size=(SizeRule=Fill)
+            VerticalAlignment=VAlign_Top
+            Parent=VerticalBox'"WBP_Graph_11_POMDALT:WidgetTree.VerticalBox_8"'
+            Content=VerticalBox'"WBP_Graph_11_POMDALT:WidgetTree.VerticalBox_10"'
+         End Object
+         Begin Object Name="VerticalBoxSlot_1"
+            Padding=(Left=150.000000,Bottom=7.000000)
+            Parent=VerticalBox'"WBP_Graph_11_POMDALT:WidgetTree.VerticalBox_8"'
+            Content=HorizontalBox'"WBP_Graph_11_POMDALT:WidgetTree.HorizontalBox_8"'
+         End Object
+         Slots(0)=VerticalBoxSlot'"VerticalBoxSlot_1"'
+         Slots(1)=VerticalBoxSlot'"VerticalBoxSlot_7"'
+         bExpandedInDesigner=True
+      End Object
+      Begin Object Name="HorizontalBox8"
+         Begin Object Name="HorizontalBoxSlot_0"
+            Size=(SizeRule=Fill)
+            VerticalAlignment=VAlign_Top
+            Parent=HorizontalBox'"WBP_Graph_11_POMDALT:WidgetTree.HorizontalBox8"'
+            Content=VerticalBox'"WBP_Graph_11_POMDALT:WidgetTree.VerticalBox_8"'
+         End Object
+         Slots(0)=HorizontalBoxSlot'"HorizontalBoxSlot_0"'
+         bExpandedInDesigner=True
+         DisplayLabel="Horizontal Box 8"
+      End Object
+      Begin Object Name="Text1_2"
+         Text=NSLOCTEXT("[33543D674E5209A6F0E391889728D496]", "0FA2AAFB4D90C5C32D1D98BD6CB80B88", "3.4\r\nM")
+         Font=(FontObject=Font'"/Game/Km0MonCasteller/Core/Fonts/Gotham_Medium_Font.Gotham_Medium_Font"',TypefaceFontName="Default",Size=17)
+         Justification=Center
+         LineHeightPercentage=0.700000
+         RenderTransform=(Translation=(X=0.000000,Y=-5.000000))
+         bExpandedInDesigner=True
+         DisplayLabel="Text 1"
+      End Object
+      Begin Object Name="Image_1"
+         Brush=(ImageSize=(X=12.000000,Y=24.000000),ResourceObject=Texture2D'"/Game/Km0MonCasteller/Virtual/GrafismosUI/ico_Regla.ico_Regla"')
+         RenderTransform=(Translation=(X=0.000000,Y=-1.000000))
+      End Object
+      Begin Object Name="HorizontalBox_1"
+         Begin Object Name="HorizontalBoxSlot_4"
+            Parent=HorizontalBox'"WBP_Graph_11_POMDALT:WidgetTree.HorizontalBox_1"'
+            Content=TextBlock'"WBP_Graph_11_POMDALT:WidgetTree.Text1_2"'
+         End Object
+         Begin Object Name="HorizontalBoxSlot_2"
+            Padding=(Top=2.000000,Right=5.000000)
+            Parent=HorizontalBox'"WBP_Graph_11_POMDALT:WidgetTree.HorizontalBox_1"'
+            Content=Image'"WBP_Graph_11_POMDALT:WidgetTree.Image_1"'
+         End Object
+         Slots(0)=HorizontalBoxSlot'"HorizontalBoxSlot_2"'
+         Slots(1)=HorizontalBoxSlot'"HorizontalBoxSlot_4"'
+         RenderTransform=(Translation=(X=57.000000,Y=-5.000000),Scale=(X=1.200000,Y=1.200000))
+         bExpandedInDesigner=True
+      End Object
+      Begin Object Name="HorizontalBox6"
+         Begin Object Name="HorizontalBoxSlot_0"
+            Size=(SizeRule=Fill)
+            VerticalAlignment=VAlign_Top
+            Parent=HorizontalBox'"WBP_Graph_11_POMDALT:WidgetTree.HorizontalBox6"'
+            Content=VerticalBox'"WBP_Graph_11_POMDALT:WidgetTree.VerticalBox_5"'
+         End Object
+         Slots(0)=HorizontalBoxSlot'"HorizontalBoxSlot_0"'
+         bExpandedInDesigner=True
+         DisplayLabel="Horizontal Box 6"
+      End Object
+      Begin Object Name="Text1"
+         Text=NSLOCTEXT("[33543D674E5209A6F0E391889728D496]", "0F76ACB84F0120EE5B950D911B812CFF", "5\r\nM")
+         Font=(FontObject=Font'"/Game/Km0MonCasteller/Core/Fonts/Gotham_Medium_Font.Gotham_Medium_Font"',TypefaceFontName="Default",Size=17)
+         Justification=Center
+         LineHeightPercentage=0.700000
+         RenderTransform=(Translation=(X=0.000000,Y=-5.000000))
+         bExpandedInDesigner=True
+         DisplayLabel="Text 1"
+      End Object
+      Begin Object Name="Image"
+         Brush=(ImageSize=(X=12.000000,Y=24.000000),ResourceObject=Texture2D'"/Game/Km0MonCasteller/Virtual/GrafismosUI/ico_Regla.ico_Regla"')
+         RenderTransform=(Translation=(X=0.000000,Y=-1.000000))
+      End Object
+      Begin Object Name="HorizontalBox"
+         Begin Object Name="HorizontalBoxSlot_4"
+            Parent=HorizontalBox'"WBP_Graph_11_POMDALT:WidgetTree.HorizontalBox"'
+            Content=TextBlock'"WBP_Graph_11_POMDALT:WidgetTree.Text1"'
+         End Object
+         Begin Object Name="HorizontalBoxSlot_2"
+            Padding=(Top=2.000000,Right=5.000000)
+            Parent=HorizontalBox'"WBP_Graph_11_POMDALT:WidgetTree.HorizontalBox"'
+            Content=Image'"WBP_Graph_11_POMDALT:WidgetTree.Image"'
+         End Object
+         Slots(0)=HorizontalBoxSlot'"HorizontalBoxSlot_2"'
+         Slots(1)=HorizontalBoxSlot'"HorizontalBoxSlot_4"'
+         RenderTransform=(Translation=(X=57.000000,Y=-5.000000),Scale=(X=1.200000,Y=1.200000))
+         bExpandedInDesigner=True
+      End Object
+      Begin Object Name="HorizontalBox3"
+         Begin Object Name="HorizontalBoxSlot_0"
+            Size=(SizeRule=Fill)
+            VerticalAlignment=VAlign_Top
+            Parent=HorizontalBox'"WBP_Graph_11_POMDALT:WidgetTree.HorizontalBox3"'
+            Content=VerticalBox'"WBP_Graph_11_POMDALT:WidgetTree.VerticalBox_2"'
+         End Object
+         Slots(0)=HorizontalBoxSlot'"HorizontalBoxSlot_0"'
+         bExpandedInDesigner=True
+         DisplayLabel="Horizontal Box 3"
+      End Object
+      Begin Object Name="Text1_4"
+         Text=NSLOCTEXT("[33543D674E5209A6F0E391889728D496]", "FFCC8CE6419C1E42CE551CA7EBFB701F", "6.4\r\nM")
+         Font=(FontObject=Font'"/Game/Km0MonCasteller/Core/Fonts/Gotham_Medium_Font.Gotham_Medium_Font"',TypefaceFontName="Default",Size=17)
+         Justification=Center
+         LineHeightPercentage=0.700000
+         RenderTransform=(Translation=(X=0.000000,Y=-5.000000))
+         bExpandedInDesigner=True
+         DisplayLabel="Text 1"
+      End Object
+      Begin Object Name="Image_4"
+         Brush=(ImageSize=(X=12.000000,Y=24.000000),ResourceObject=Texture2D'"/Game/Km0MonCasteller/Virtual/GrafismosUI/ico_Regla.ico_Regla"')
+         RenderTransform=(Translation=(X=0.000000,Y=-1.000000))
+      End Object
+      Begin Object Name="HorizontalBox_4"
+         Begin Object Name="HorizontalBoxSlot_4"
+            Parent=HorizontalBox'"WBP_Graph_11_POMDALT:WidgetTree.HorizontalBox_4"'
+            Content=TextBlock'"WBP_Graph_11_POMDALT:WidgetTree.Text1_4"'
+         End Object
+         Begin Object Name="HorizontalBoxSlot_2"
+            Padding=(Top=2.000000,Right=5.000000)
+            Parent=HorizontalBox'"WBP_Graph_11_POMDALT:WidgetTree.HorizontalBox_4"'
+            Content=Image'"WBP_Graph_11_POMDALT:WidgetTree.Image_4"'
+         End Object
+         Slots(0)=HorizontalBoxSlot'"HorizontalBoxSlot_2"'
+         Slots(1)=HorizontalBoxSlot'"HorizontalBoxSlot_4"'
+         RenderTransform=(Translation=(X=57.000000,Y=-5.000000),Scale=(X=1.200000,Y=1.200000))
+         bExpandedInDesigner=True
+      End Object
+      Begin Object Name="HorizontalBox2"
+         Begin Object Name="HorizontalBoxSlot_0"
+            Size=(SizeRule=Fill)
+            VerticalAlignment=VAlign_Top
+            Parent=HorizontalBox'"WBP_Graph_11_POMDALT:WidgetTree.HorizontalBox2"'
+            Content=VerticalBox'"WBP_Graph_11_POMDALT:WidgetTree.VerticalBox_1"'
+         End Object
+         Slots(0)=HorizontalBoxSlot'"HorizontalBoxSlot_0"'
+         bExpandedInDesigner=True
+         DisplayLabel="Horizontal Box 2"
+      End Object
+      Begin Object Name="Text1_6"
+         Text=NSLOCTEXT("[33543D674E5209A6F0E391889728D496]", "F4579AB34ED412484A1E27B4523238DB", "12\r\nM")
+         Font=(FontObject=Font'"/Game/Km0MonCasteller/Core/Fonts/Gotham_Medium_Font.Gotham_Medium_Font"',TypefaceFontName="Default",Size=17)
+         Justification=Center
+         LineHeightPercentage=0.700000
+         RenderTransform=(Translation=(X=0.000000,Y=-5.000000))
+         bExpandedInDesigner=True
+         DisplayLabel="Text 1"
+      End Object
+      Begin Object Name="Image_6"
+         Brush=(ImageSize=(X=12.000000,Y=24.000000),ResourceObject=Texture2D'"/Game/Km0MonCasteller/Virtual/GrafismosUI/ico_Regla.ico_Regla"')
+         RenderTransform=(Translation=(X=0.000000,Y=-1.000000))
+      End Object
+      Begin Object Name="HorizontalBox_6"
+         Begin Object Name="HorizontalBoxSlot_4"
+            Parent=HorizontalBox'"WBP_Graph_11_POMDALT:WidgetTree.HorizontalBox_6"'
+            Content=TextBlock'"WBP_Graph_11_POMDALT:WidgetTree.Text1_6"'
+         End Object
+         Begin Object Name="HorizontalBoxSlot_2"
+            Padding=(Top=2.000000,Right=5.000000)
+            Parent=HorizontalBox'"WBP_Graph_11_POMDALT:WidgetTree.HorizontalBox_6"'
+            Content=Image'"WBP_Graph_11_POMDALT:WidgetTree.Image_6"'
+         End Object
+         Slots(0)=HorizontalBoxSlot'"HorizontalBoxSlot_2"'
+         Slots(1)=HorizontalBoxSlot'"HorizontalBoxSlot_4"'
+         RenderTransform=(Translation=(X=57.000000,Y=-5.000000),Scale=(X=1.200000,Y=1.200000))
+         bExpandedInDesigner=True
+      End Object
+      Begin Object Name="HorizontalBox1_4"
+         Begin Object Name="HorizontalBoxSlot_0"
+            Size=(SizeRule=Fill)
+            VerticalAlignment=VAlign_Top
+            Parent=HorizontalBox'"WBP_Graph_11_POMDALT:WidgetTree.HorizontalBox1_4"'
+            Content=VerticalBox'"WBP_Graph_11_POMDALT:WidgetTree.VerticalBox_6"'
+         End Object
+         Slots(0)=HorizontalBoxSlot'"HorizontalBoxSlot_0"'
+         bExpandedInDesigner=True
+         DisplayLabel="Horizontal Box 1"
+      End Object
+      Begin Object Name="Text1_3"
+         Text=NSLOCTEXT("[33543D674E5209A6F0E391889728D496]", "311FD93B408955A43ABEF2B46D65A157", "11.5\r\nM")
+         Font=(FontObject=Font'"/Game/Km0MonCasteller/Core/Fonts/Gotham_Medium_Font.Gotham_Medium_Font"',TypefaceFontName="Default",Size=17)
+         Justification=Center
+         LineHeightPercentage=0.700000
+         RenderTransform=(Translation=(X=0.000000,Y=-5.000000))
+         bExpandedInDesigner=True
+         DisplayLabel="Text 1"
+      End Object
+      Begin Object Name="Image_3"
+         Brush=(ImageSize=(X=12.000000,Y=24.000000),ResourceObject=Texture2D'"/Game/Km0MonCasteller/Virtual/GrafismosUI/ico_Regla.ico_Regla"')
+         RenderTransform=(Translation=(X=0.000000,Y=-1.000000))
+      End Object
+      Begin Object Name="HorizontalBox_3"
+         Begin Object Name="HorizontalBoxSlot_4"
+            Parent=HorizontalBox'"WBP_Graph_11_POMDALT:WidgetTree.HorizontalBox_3"'
+            Content=TextBlock'"WBP_Graph_11_POMDALT:WidgetTree.Text1_3"'
+         End Object
+         Begin Object Name="HorizontalBoxSlot_2"
+            Padding=(Top=2.000000,Right=5.000000)
+            Parent=HorizontalBox'"WBP_Graph_11_POMDALT:WidgetTree.HorizontalBox_3"'
+            Content=Image'"WBP_Graph_11_POMDALT:WidgetTree.Image_3"'
+         End Object
+         Slots(0)=HorizontalBoxSlot'"HorizontalBoxSlot_2"'
+         Slots(1)=HorizontalBoxSlot'"HorizontalBoxSlot_4"'
+         RenderTransform=(Translation=(X=57.000000,Y=-5.000000),Scale=(X=1.200000,Y=1.200000))
+         bExpandedInDesigner=True
+      End Object
+      Begin Object Name="HorizontalBox1_3"
+         Begin Object Name="HorizontalBoxSlot_0"
+            Size=(SizeRule=Fill)
+            VerticalAlignment=VAlign_Top
+            Parent=HorizontalBox'"WBP_Graph_11_POMDALT:WidgetTree.HorizontalBox1_3"'
+            Content=VerticalBox'"WBP_Graph_11_POMDALT:WidgetTree.VerticalBox_4"'
+         End Object
+         Slots(0)=HorizontalBoxSlot'"HorizontalBoxSlot_0"'
+         bExpandedInDesigner=True
+         DisplayLabel="Horizontal Box 1"
+      End Object
+      Begin Object Name="Text1_7"
+         Text=NSLOCTEXT("[33543D674E5209A6F0E391889728D496]", "BDADF4CB4378C9DB50956FAC0FF0DF57", "9.8\r\nM")
+         Font=(FontObject=Font'"/Game/Km0MonCasteller/Core/Fonts/Gotham_Medium_Font.Gotham_Medium_Font"',TypefaceFontName="Default",Size=17)
+         Justification=Center
+         LineHeightPercentage=0.700000
+         RenderTransform=(Translation=(X=0.000000,Y=-5.000000))
+         bExpandedInDesigner=True
+         DisplayLabel="Text 1"
+      End Object
+      Begin Object Name="Image_7"
+         Brush=(ImageSize=(X=12.000000,Y=24.000000),ResourceObject=Texture2D'"/Game/Km0MonCasteller/Virtual/GrafismosUI/ico_Regla.ico_Regla"')
+         RenderTransform=(Translation=(X=0.000000,Y=-1.000000))
+      End Object
+      Begin Object Name="HorizontalBox_7"
+         Begin Object Name="HorizontalBoxSlot_4"
+            Parent=HorizontalBox'"WBP_Graph_11_POMDALT:WidgetTree.HorizontalBox_7"'
+            Content=TextBlock'"WBP_Graph_11_POMDALT:WidgetTree.Text1_7"'
+         End Object
+         Begin Object Name="HorizontalBoxSlot_2"
+            Padding=(Top=2.000000,Right=5.000000)
+            Parent=HorizontalBox'"WBP_Graph_11_POMDALT:WidgetTree.HorizontalBox_7"'
+            Content=Image'"WBP_Graph_11_POMDALT:WidgetTree.Image_7"'
+         End Object
+         Slots(0)=HorizontalBoxSlot'"HorizontalBoxSlot_2"'
+         Slots(1)=HorizontalBoxSlot'"HorizontalBoxSlot_4"'
+         RenderTransform=(Translation=(X=57.000000,Y=-5.000000),Scale=(X=1.200000,Y=1.200000))
+         bExpandedInDesigner=True
+      End Object
+      Begin Object Name="HorizontalBox1_1"
+         Begin Object Name="HorizontalBoxSlot_0"
+            Size=(SizeRule=Fill)
+            VerticalAlignment=VAlign_Top
+            Parent=HorizontalBox'"WBP_Graph_11_POMDALT:WidgetTree.HorizontalBox1_1"'
+            Content=VerticalBox'"WBP_Graph_11_POMDALT:WidgetTree.VerticalBox_7"'
+         End Object
+         Slots(0)=HorizontalBoxSlot'"HorizontalBoxSlot_0"'
+         bExpandedInDesigner=True
+         DisplayLabel="Horizontal Box 1"
+      End Object
+      Begin Object Name="Text1_1"
+         Text=NSLOCTEXT("[33543D674E5209A6F0E391889728D496]", "AF87BE7E43C39283DF9FC89B1CFE70CC", "8.2\r\nM")
+         Font=(FontObject=Font'"/Game/Km0MonCasteller/Core/Fonts/Gotham_Medium_Font.Gotham_Medium_Font"',TypefaceFontName="Default",Size=17)
+         Justification=Center
+         LineHeightPercentage=0.700000
+         RenderTransform=(Translation=(X=0.000000,Y=-5.000000))
+         bExpandedInDesigner=True
+         DisplayLabel="Text 1"
+      End Object
+      Begin Object Name="Image_2"
+         Brush=(ImageSize=(X=12.000000,Y=24.000000),ResourceObject=Texture2D'"/Game/Km0MonCasteller/Virtual/GrafismosUI/ico_Regla.ico_Regla"')
+         RenderTransform=(Translation=(X=0.000000,Y=-1.000000))
+      End Object
+      Begin Object Name="HorizontalBox_2"
+         Begin Object Name="HorizontalBoxSlot_4"
+            Parent=HorizontalBox'"WBP_Graph_11_POMDALT:WidgetTree.HorizontalBox_2"'
+            Content=TextBlock'"WBP_Graph_11_POMDALT:WidgetTree.Text1_1"'
+         End Object
+         Begin Object Name="HorizontalBoxSlot_2"
+            Padding=(Top=2.000000,Right=5.000000)
+            Parent=HorizontalBox'"WBP_Graph_11_POMDALT:WidgetTree.HorizontalBox_2"'
+            Content=Image'"WBP_Graph_11_POMDALT:WidgetTree.Image_2"'
+         End Object
+         Slots(0)=HorizontalBoxSlot'"HorizontalBoxSlot_2"'
+         Slots(1)=HorizontalBoxSlot'"HorizontalBoxSlot_4"'
+         RenderTransform=(Translation=(X=57.000000,Y=-5.000000),Scale=(X=1.200000,Y=1.200000))
+         bExpandedInDesigner=True
+      End Object
+      Begin Object Name="HorizontalBox1"
+         Begin Object Name="HorizontalBoxSlot_0"
+            Size=(SizeRule=Fill)
+            VerticalAlignment=VAlign_Top
+            Parent=HorizontalBox'"WBP_Graph_11_POMDALT:WidgetTree.HorizontalBox1"'
+            Content=VerticalBox'"WBP_Graph_11_POMDALT:WidgetTree.VerticalBox"'
+         End Object
+         Slots(0)=HorizontalBoxSlot'"HorizontalBoxSlot_0"'
+         bExpandedInDesigner=True
+         DisplayLabel="Horizontal Box 1"
+      End Object
+      Begin Object Name="Border_8"
+         BrushColor=(R=0.490196,G=0.070588,B=0.149020,A=1.000000)
+         bExpandedInDesigner=True
+         DisplayLabel="Border_8"
+      End Object
+      Begin Object Name="VerticalBox_6"
+         Begin Object Name="VerticalBoxSlot_2"
+            Padding=(Left=150.000000,Bottom=7.000000)
+            Parent=VerticalBox'"WBP_Graph_11_POMDALT:WidgetTree.VerticalBox_6"'
+            Content=HorizontalBox'"WBP_Graph_11_POMDALT:WidgetTree.HorizontalBox_6"'
+         End Object
+         Begin Object Name="VerticalBoxSlot_4"
+            Parent=VerticalBox'"WBP_Graph_11_POMDALT:WidgetTree.VerticalBox_6"'
+            Content=Border'"WBP_Graph_11_POMDALT:WidgetTree.Border_7"'
+         End Object
+         Slots(0)=VerticalBoxSlot'"VerticalBoxSlot_2"'
+         Slots(1)=VerticalBoxSlot'"VerticalBoxSlot_4"'
+         bExpandedInDesigner=True
+      End Object
+      Begin Object Name="Border_7"
+         BrushColor=(R=0.490196,G=0.070588,B=0.149020,A=1.000000)
+         bExpandedInDesigner=True
+         DisplayLabel="Border_7"
+      End Object
+      Begin Object Name="VerticalBox_5"
+         Begin Object Name="VerticalBoxSlot_3"
+            Padding=(Left=150.000000,Bottom=7.000000)
+            Parent=VerticalBox'"WBP_Graph_11_POMDALT:WidgetTree.VerticalBox_5"'
+            Content=HorizontalBox'"WBP_Graph_11_POMDALT:WidgetTree.HorizontalBox_1"'
+         End Object
+         Begin Object Name="VerticalBoxSlot_1"
+            Parent=VerticalBox'"WBP_Graph_11_POMDALT:WidgetTree.VerticalBox_5"'
+            Content=Border'"WBP_Graph_11_POMDALT:WidgetTree.Border_6"'
+         End Object
+         Slots(0)=VerticalBoxSlot'"VerticalBoxSlot_3"'
+         Slots(1)=VerticalBoxSlot'"VerticalBoxSlot_1"'
+         bExpandedInDesigner=True
+      End Object
+      Begin Object Name="Border_6"
+         BrushColor=(R=0.490196,G=0.070588,B=0.149020,A=1.000000)
+         bExpandedInDesigner=True
+         DisplayLabel="Border_6"
+      End Object
+      Begin Object Name="VerticalBox_4"
+         Begin Object Name="VerticalBoxSlot_2"
+            Padding=(Left=150.000000,Bottom=7.000000)
+            Parent=VerticalBox'"WBP_Graph_11_POMDALT:WidgetTree.VerticalBox_4"'
+            Content=HorizontalBox'"WBP_Graph_11_POMDALT:WidgetTree.HorizontalBox_3"'
+         End Object
+         Begin Object Name="VerticalBoxSlot_4"
+            Parent=VerticalBox'"WBP_Graph_11_POMDALT:WidgetTree.VerticalBox_4"'
+            Content=Border'"WBP_Graph_11_POMDALT:WidgetTree.Border_5"'
+         End Object
+         Slots(0)=VerticalBoxSlot'"VerticalBoxSlot_2"'
+         Slots(1)=VerticalBoxSlot'"VerticalBoxSlot_4"'
+         bExpandedInDesigner=True
+      End Object
+      Begin Object Name="Border_5"
+         BrushColor=(R=0.490196,G=0.070588,B=0.149020,A=1.000000)
+         bExpandedInDesigner=True
+         DisplayLabel="Border_5"
+      End Object
+      Begin Object Name="VerticalBox_2"
+         Begin Object Name="VerticalBoxSlot_6"
+            Padding=(Left=150.000000,Bottom=7.000000)
+            Parent=VerticalBox'"WBP_Graph_11_POMDALT:WidgetTree.VerticalBox_2"'
+            Content=HorizontalBox'"WBP_Graph_11_POMDALT:WidgetTree.HorizontalBox"'
+         End Object
+         Begin Object Name="VerticalBoxSlot_1"
+            Parent=VerticalBox'"WBP_Graph_11_POMDALT:WidgetTree.VerticalBox_2"'
+            Content=Border'"WBP_Graph_11_POMDALT:WidgetTree.Border_3"'
+         End Object
+         Slots(0)=VerticalBoxSlot'"VerticalBoxSlot_6"'
+         Slots(1)=VerticalBoxSlot'"VerticalBoxSlot_1"'
+         bExpandedInDesigner=True
+      End Object
+      Begin Object Name="Border_3"
+         BrushColor=(R=0.490196,G=0.070588,B=0.149020,A=1.000000)
+         bExpandedInDesigner=True
+         DisplayLabel="Border_3"
+      End Object
+      Begin Object Name="VerticalBox_1"
+         Begin Object Name="VerticalBoxSlot_5"
+            Padding=(Left=150.000000,Bottom=7.000000)
+            Parent=VerticalBox'"WBP_Graph_11_POMDALT:WidgetTree.VerticalBox_1"'
+            Content=HorizontalBox'"WBP_Graph_11_POMDALT:WidgetTree.HorizontalBox_4"'
+         End Object
+         Begin Object Name="VerticalBoxSlot_1"
+            Parent=VerticalBox'"WBP_Graph_11_POMDALT:WidgetTree.VerticalBox_1"'
+            Content=Border'"WBP_Graph_11_POMDALT:WidgetTree.Border_2"'
+         End Object
+         Slots(0)=VerticalBoxSlot'"VerticalBoxSlot_5"'
+         Slots(1)=VerticalBoxSlot'"VerticalBoxSlot_1"'
+         bExpandedInDesigner=True
+      End Object
+      Begin Object Name="Border_2"
+         BrushColor=(R=0.490196,G=0.070588,B=0.149020,A=1.000000)
+         bExpandedInDesigner=True
+         DisplayLabel="Border_2"
+      End Object
+      RootWidget=CanvasPanel'"CanvasPanel_0"'
+      AllWidgets(0)=CanvasPanel'"CanvasPanel_0"'
+      AllWidgets(1)=HorizontalBox'"HorizontalBox1"'
+      AllWidgets(2)=VerticalBox'"VerticalBox"'
+      AllWidgets(3)=HorizontalBox'"HorizontalBox_2"'
+      AllWidgets(4)=Image'"Image_2"'
+      AllWidgets(5)=TextBlock'"Text1_1"'
+      AllWidgets(6)=Border'"Border_1"'
+      AllWidgets(7)=HorizontalBox'"HorizontalBox1_1"'
+      AllWidgets(8)=VerticalBox'"VerticalBox_7"'
+      AllWidgets(9)=HorizontalBox'"HorizontalBox_7"'
+      AllWidgets(10)=Image'"Image_7"'
+      AllWidgets(11)=TextBlock'"Text1_7"'
+      AllWidgets(12)=Border'"Border_9"'
+      AllWidgets(13)=HorizontalBox'"HorizontalBox1_3"'
+      AllWidgets(14)=VerticalBox'"VerticalBox_4"'
+      AllWidgets(15)=HorizontalBox'"HorizontalBox_3"'
+      AllWidgets(16)=Image'"Image_3"'
+      AllWidgets(17)=TextBlock'"Text1_3"'
+      AllWidgets(18)=Border'"Border_5"'
+      AllWidgets(19)=HorizontalBox'"HorizontalBox1_4"'
+      AllWidgets(20)=VerticalBox'"VerticalBox_6"'
+      AllWidgets(21)=HorizontalBox'"HorizontalBox_6"'
+      AllWidgets(22)=Image'"Image_6"'
+      AllWidgets(23)=TextBlock'"Text1_6"'
+      AllWidgets(24)=Border'"Border_7"'
+      AllWidgets(25)=HorizontalBox'"HorizontalBox2"'
+      AllWidgets(26)=VerticalBox'"VerticalBox_1"'
+      AllWidgets(27)=HorizontalBox'"HorizontalBox_4"'
+      AllWidgets(28)=Image'"Image_4"'
+      AllWidgets(29)=TextBlock'"Text1_4"'
+      AllWidgets(30)=Border'"Border_2"'
+      AllWidgets(31)=HorizontalBox'"HorizontalBox3"'
+      AllWidgets(32)=VerticalBox'"VerticalBox_2"'
+      AllWidgets(33)=HorizontalBox'"HorizontalBox"'
+      AllWidgets(34)=Image'"Image"'
+      AllWidgets(35)=TextBlock'"Text1"'
+      AllWidgets(36)=Border'"Border_3"'
+      AllWidgets(37)=HorizontalBox'"HorizontalBox6"'
+      AllWidgets(38)=VerticalBox'"VerticalBox_5"'
+      AllWidgets(39)=HorizontalBox'"HorizontalBox_1"'
+      AllWidgets(40)=Image'"Image_1"'
+      AllWidgets(41)=TextBlock'"Text1_2"'
+      AllWidgets(42)=Border'"Border_6"'
+      AllWidgets(43)=HorizontalBox'"HorizontalBox8"'
+      AllWidgets(44)=VerticalBox'"VerticalBox_8"'
+      AllWidgets(45)=HorizontalBox'"HorizontalBox_8"'
+      AllWidgets(46)=Image'"Image_8"'
+      AllWidgets(47)=TextBlock'"Text1_8"'
+      AllWidgets(48)=VerticalBox'"VerticalBox_10"'
+      AllWidgets(49)=Border'"Border_8"'
+      AllWidgets(50)=Border'"Border"'
+      AllWidgets(51)=TextBlock'"TextB"'
+      AllWidgets(52)=Border'"Border_11"'
+      AllWidgets(53)=TextBlock'"TextA"'
+      AllWidgets(54)=Border'"Border_10"'
+      AllWidgets(55)=TextBlock'"TextC"'
+   End Object
+   Begin Object Name="EventGraph"
+      Begin Object Name="K2Node_Event_2"
+         EventReference=(MemberParent=Class'"/Script/UMG.UserWidget"',MemberName="Tick")
+         bOverrideFunction=True
+         NodePosY=416
+         EnabledState=Disabled
+         bCommentBubblePinned=True
+         bCommentBubbleVisible=True
+         NodeComment="This node is disabled and will not be called.\r\nDrag off pins to build functionality."
+         NodeGuid=994CB94B4541659E0E6957B68E045460
+         CustomProperties Pin (PinId=6F48A29B483CAB54DCDC77949A14ACE4,PinName="OutputDelegate",Direction="EGPD_Output",PinType.PinCategory="delegate",PinType.PinSubCategory="",PinType.PinSubCategoryObject=None,PinType.PinSubCategoryMemberReference=(MemberParent=Class'"/Script/UMG.UserWidget"',MemberName="Tick"),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PinType.bIsUObjectWrapper=False,PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+         CustomProperties Pin (PinId=7F9335A043DDDBB63F8BBA9B6A6D3D68,PinName="then",Direction="EGPD_Output",PinType.PinCategory="exec",PinType.PinSubCategory="",PinType.PinSubCategoryObject=None,PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PinType.bIsUObjectWrapper=False,PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+         CustomProperties Pin (PinId=94B4B99A4525820D9FBC43B1C60B0DAA,PinName="MyGeometry",PinToolTip="My Geometry\nGeometry Structure\n\nThe space allotted for this widget",Direction="EGPD_Output",PinType.PinCategory="struct",PinType.PinSubCategory="",PinType.PinSubCategoryObject=ScriptStruct'"/Script/SlateCore.Geometry"',PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PinType.bIsUObjectWrapper=False,PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+         CustomProperties Pin (PinId=0B1E72474991F5EEEC35D9A3B591BFDE,PinName="InDeltaTime",PinToolTip="In Delta Time\nFloat\n\nReal time passed since last tick",Direction="EGPD_Output",PinType.PinCategory="float",PinType.PinSubCategory="",PinType.PinSubCategoryObject=None,PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PinType.bIsUObjectWrapper=False,DefaultValue="0.0",AutogeneratedDefaultValue="0.0",PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+      End Object
+      Schema=Class'"/Script/BlueprintGraph.EdGraphSchema_K2"'
+      Nodes(0)=K2Node_Event'"K2Node_Event_2"'
+      bAllowDeletion=False
+      GraphGuid=79086B4E4425A348C920B389E8E89FC8
+   End Object
+   Begin Object Name="intro"
+      Begin Object Name="intro"
+         Begin Object Name="MovieSceneFloatTrack_2"
+            Begin Object Name="MovieSceneFloatSection_0"
+               Begin Object Name="EaseOutFunction"
+               End Object
+               Begin Object Name="EaseInFunction"
+               End Object
+               FloatCurve=(Times=((),(Value=225000),(Value=285000)),Values=((),(),()))
+               EvalOptions=(CompletionMode=KeepState)
+               Easing=(EaseIn=MovieSceneBuiltInEasingFunction'WBP_Graph_11_POMDALT:intro.intro.MovieSceneFloatTrack_2.MovieSceneFloatSection_0.EaseInFunction',EaseOut=MovieSceneBuiltInEasingFunction'WBP_Graph_11_POMDALT:intro.intro.MovieSceneFloatTrack_2.MovieSceneFloatSection_0.EaseOutFunction')
+               SectionRange=Inclusive:0:Inclusive:285000
+               Signature=D9F1B272420D4E4682BF8FB71BE4ED0B
+            End Object
+            UniqueTrackName="RenderOpacity"
+            PropertyBinding=(PropertyName="RenderOpacity",PropertyPath="RenderOpacity",bCanUseClassLookup=True)
+            Sections(0)=MovieSceneFloatSection'"MovieSceneFloatSection_0"'
+            DisplayName=NSLOCTEXT("UObjectDisplayNames", "Widget:RenderOpacity", "Render Opacity")
+            EvaluationFieldGuid=D343DDCD402F5069C8961E852630F382
+            EvaluationField=(Entries=((Section=MovieSceneFloatSection'"MovieSceneFloatSection_0"',Range=(LowerBound=(Type=Inclusive),UpperBound=(Type=Inclusive,Value=(Value=285000))),ForcedTime=(Value=-2147483648))))
+            SortingOrder=0
+            Signature=D343DDCD402F5069C8961E852630F382
+         End Object
+         Begin Object Name="MovieSceneFloatTrack_1"
+            Begin Object Name="MovieSceneFloatSection_0"
+               Begin Object Name="EaseOutFunction"
+               End Object
+               Begin Object Name="EaseInFunction"
+               End Object
+               FloatCurve=(Times=((),(Value=164999),(Value=224999),(Value=225000)),Values=((),(),(Value=1.000000),(Value=1.000000)))
+               EvalOptions=(CompletionMode=KeepState)
+               Easing=(EaseIn=MovieSceneBuiltInEasingFunction'WBP_Graph_11_POMDALT:intro.intro.MovieSceneFloatTrack_1.MovieSceneFloatSection_0.EaseInFunction',EaseOut=MovieSceneBuiltInEasingFunction'WBP_Graph_11_POMDALT:intro.intro.MovieSceneFloatTrack_1.MovieSceneFloatSection_0.EaseOutFunction')
+               SectionRange=Inclusive:0:Inclusive:255000
+               Signature=0A0642434290F88BCB36E18B33F83714
+            End Object
+            UniqueTrackName="RenderOpacity"
+            PropertyBinding=(PropertyName="RenderOpacity",PropertyPath="RenderOpacity",bCanUseClassLookup=True)
+            Sections(0)=MovieSceneFloatSection'"MovieSceneFloatSection_0"'
+            DisplayName=NSLOCTEXT("UObjectDisplayNames", "Widget:RenderOpacity", "Render Opacity")
+            EvaluationFieldGuid=D3B89EAE42031E5764016EAE8368E51B
+            EvaluationField=(Entries=((Section=MovieSceneFloatSection'"MovieSceneFloatSection_0"',Range=(LowerBound=(Type=Inclusive),UpperBound=(Type=Inclusive,Value=(Value=255000))),ForcedTime=(Value=-2147483648))))
+            SortingOrder=0
+            Signature=D3B89EAE42031E5764016EAE8368E51B
+         End Object
+         Begin Object Name="MovieSceneFloatTrack_0"
+            Begin Object Name="MovieSceneFloatSection_0"
+               Begin Object Name="EaseOutFunction"
+               End Object
+               Begin Object Name="EaseInFunction"
+               End Object
+               FloatCurve=(Times=((),(Value=45000),(Value=104999)),Values=((),(),(Value=1.000000)))
+               EvalOptions=(CompletionMode=KeepState)
+               Easing=(EaseIn=MovieSceneBuiltInEasingFunction'WBP_Graph_11_POMDALT:intro.intro.MovieSceneFloatTrack_0.MovieSceneFloatSection_0.EaseInFunction',EaseOut=MovieSceneBuiltInEasingFunction'WBP_Graph_11_POMDALT:intro.intro.MovieSceneFloatTrack_0.MovieSceneFloatSection_0.EaseOutFunction')
+               SectionRange=Inclusive:0:Inclusive:120000
+               Signature=6FA6AC7947A167B43BD1738325A38D90
+            End Object
+            UniqueTrackName="RenderOpacity"
+            PropertyBinding=(PropertyName="RenderOpacity",PropertyPath="RenderOpacity",bCanUseClassLookup=True)
+            Sections(0)=MovieSceneFloatSection'"MovieSceneFloatSection_0"'
+            DisplayName=NSLOCTEXT("UObjectDisplayNames", "Widget:RenderOpacity", "Render Opacity")
+            EvaluationFieldGuid=57BC176D462CC7A1466D6BA046CADCAD
+            EvaluationField=(Entries=((Section=MovieSceneFloatSection'"MovieSceneFloatSection_0"',Range=(LowerBound=(Type=Inclusive),UpperBound=(Type=Inclusive,Value=(Value=120000))),ForcedTime=(Value=-2147483648))))
+            SortingOrder=0
+            Signature=57BC176D462CC7A1466D6BA046CADCAD
+         End Object
+         Begin Object Name="MovieScene2DTransformTrack_9"
+            Begin Object Name="MovieScene2DTransformSection_0"
+               Begin Object Name="EaseOutFunction"
+               End Object
+               Begin Object Name="EaseInFunction"
+               End Object
+               Translation(0)=(Times=((),(Value=254999),(Value=287999)),Values=((),(),()))
+               Translation(1)=(Times=((),(Value=254999),(Value=287999)),Values=((Value=-30.000000),(Value=-30.000000),()))
+               EvalOptions=(CompletionMode=KeepState)
+               Easing=(EaseIn=MovieSceneBuiltInEasingFunction'WBP_Graph_11_POMDALT:intro.intro.MovieScene2DTransformTrack_9.MovieScene2DTransformSection_0.EaseInFunction',EaseOut=MovieSceneBuiltInEasingFunction'WBP_Graph_11_POMDALT:intro.intro.MovieScene2DTransformTrack_9.MovieScene2DTransformSection_0.EaseOutFunction')
+               SectionRange=Inclusive:0:Inclusive:287999
+               TimecodeSource=(DeltaFrame=(Value=254999))
+               Signature=CFE26F834425C3C9C4916E8431C74C45
+            End Object
+            UniqueTrackName="RenderTransform"
+            PropertyBinding=(PropertyName="RenderTransform",PropertyPath="RenderTransform",bCanUseClassLookup=True)
+            Sections(0)=MovieScene2DTransformSection'"MovieScene2DTransformSection_0"'
+            DisplayName=NSLOCTEXT("UObjectDisplayNames", "Widget:RenderTransform", "Transform")
+            EvaluationFieldGuid=085799CC4E643CF6183D5F922C4EC60B
+            EvaluationField=(Entries=((Section=MovieScene2DTransformSection'"MovieScene2DTransformSection_0"',Range=(LowerBound=(Type=Inclusive),UpperBound=(Type=Inclusive,Value=(Value=287999))),ForcedTime=(Value=-2147483648))))
+            SortingOrder=0
+            Signature=085799CC4E643CF6183D5F922C4EC60B
+         End Object
+         Begin Object Name="MovieScene2DTransformTrack_8"
+            Begin Object Name="MovieScene2DTransformSection_0"
+               Begin Object Name="EaseOutFunction"
+               End Object
+               Begin Object Name="EaseInFunction"
+               End Object
+               Translation(0)=(Times=((),(Value=224999),(Value=257999)),Values=((),(),()))
+               Translation(1)=(Times=((),(Value=224999),(Value=257999)),Values=((Value=-30.000000),(Value=-30.000000),()))
+               EvalOptions=(CompletionMode=KeepState)
+               Easing=(EaseIn=MovieSceneBuiltInEasingFunction'WBP_Graph_11_POMDALT:intro.intro.MovieScene2DTransformTrack_8.MovieScene2DTransformSection_0.EaseInFunction',EaseOut=MovieSceneBuiltInEasingFunction'WBP_Graph_11_POMDALT:intro.intro.MovieScene2DTransformTrack_8.MovieScene2DTransformSection_0.EaseOutFunction')
+               SectionRange=Inclusive:0:Inclusive:257999
+               TimecodeSource=(DeltaFrame=(Value=224999))
+               Signature=8A379ED447FFA1CBDC5E878128AC96B9
+            End Object
+            UniqueTrackName="RenderTransform"
+            PropertyBinding=(PropertyName="RenderTransform",PropertyPath="RenderTransform",bCanUseClassLookup=True)
+            Sections(0)=MovieScene2DTransformSection'"MovieScene2DTransformSection_0"'
+            DisplayName=NSLOCTEXT("UObjectDisplayNames", "Widget:RenderTransform", "Transform")
+            EvaluationFieldGuid=05595C6A418D6A88C0BE7A8F70E16F0C
+            EvaluationField=(Entries=((Section=MovieScene2DTransformSection'"MovieScene2DTransformSection_0"',Range=(LowerBound=(Type=Inclusive),UpperBound=(Type=Inclusive,Value=(Value=257999))),ForcedTime=(Value=-2147483648))))
+            SortingOrder=0
+            Signature=05595C6A418D6A88C0BE7A8F70E16F0C
+         End Object
+         Begin Object Name="MovieScene2DTransformTrack_7"
+            Begin Object Name="MovieScene2DTransformSection_0"
+               Begin Object Name="EaseOutFunction"
+               End Object
+               Begin Object Name="EaseInFunction"
+               End Object
+               Translation(0)=(Times=((),(Value=194999),(Value=227999)),Values=((),(),()))
+               Translation(1)=(Times=((),(Value=194999),(Value=227999)),Values=((Value=-30.000000),(Value=-30.000000),()))
+               EvalOptions=(CompletionMode=KeepState)
+               Easing=(EaseIn=MovieSceneBuiltInEasingFunction'WBP_Graph_11_POMDALT:intro.intro.MovieScene2DTransformTrack_7.MovieScene2DTransformSection_0.EaseInFunction',EaseOut=MovieSceneBuiltInEasingFunction'WBP_Graph_11_POMDALT:intro.intro.MovieScene2DTransformTrack_7.MovieScene2DTransformSection_0.EaseOutFunction')
+               SectionRange=Inclusive:0:Inclusive:227999
+               TimecodeSource=(DeltaFrame=(Value=194999))
+               Signature=7CB6425B4678DA965B7EEB85A9D0E6A1
+            End Object
+            UniqueTrackName="RenderTransform"
+            PropertyBinding=(PropertyName="RenderTransform",PropertyPath="RenderTransform",bCanUseClassLookup=True)
+            Sections(0)=MovieScene2DTransformSection'"MovieScene2DTransformSection_0"'
+            DisplayName=NSLOCTEXT("UObjectDisplayNames", "Widget:RenderTransform", "Transform")
+            EvaluationFieldGuid=718239624986147A91E1A4BD6BD0D3EB
+            EvaluationField=(Entries=((Section=MovieScene2DTransformSection'"MovieScene2DTransformSection_0"',Range=(LowerBound=(Type=Inclusive),UpperBound=(Type=Inclusive,Value=(Value=227999))),ForcedTime=(Value=-2147483648))))
+            SortingOrder=0
+            Signature=718239624986147A91E1A4BD6BD0D3EB
+         End Object
+         Begin Object Name="MovieScene2DTransformTrack_6"
+            Begin Object Name="MovieScene2DTransformSection_0"
+               Begin Object Name="EaseOutFunction"
+               End Object
+               Begin Object Name="EaseInFunction"
+               End Object
+               Translation(0)=(Times=((),(Value=164999),(Value=197999)),Values=((),(),()))
+               Translation(1)=(Times=((),(Value=164999),(Value=197999)),Values=((Value=-30.000000),(Value=-30.000000),()))
+               EvalOptions=(CompletionMode=KeepState)
+               Easing=(EaseIn=MovieSceneBuiltInEasingFunction'WBP_Graph_11_POMDALT:intro.intro.MovieScene2DTransformTrack_6.MovieScene2DTransformSection_0.EaseInFunction',EaseOut=MovieSceneBuiltInEasingFunction'WBP_Graph_11_POMDALT:intro.intro.MovieScene2DTransformTrack_6.MovieScene2DTransformSection_0.EaseOutFunction')
+               SectionRange=Inclusive:0:Inclusive:197999
+               TimecodeSource=(DeltaFrame=(Value=164999))
+               Signature=DACCCD5D415D67DBCB44C9BA286DEBC2
+            End Object
+            UniqueTrackName="RenderTransform"
+            PropertyBinding=(PropertyName="RenderTransform",PropertyPath="RenderTransform",bCanUseClassLookup=True)
+            Sections(0)=MovieScene2DTransformSection'"MovieScene2DTransformSection_0"'
+            DisplayName=NSLOCTEXT("UObjectDisplayNames", "Widget:RenderTransform", "Transform")
+            EvaluationFieldGuid=03B3BABF4B3FEE6E8129E3A48DE0DCB9
+            EvaluationField=(Entries=((Section=MovieScene2DTransformSection'"MovieScene2DTransformSection_0"',Range=(LowerBound=(Type=Inclusive),UpperBound=(Type=Inclusive,Value=(Value=197999))),ForcedTime=(Value=-2147483648))))
+            SortingOrder=0
+            Signature=03B3BABF4B3FEE6E8129E3A48DE0DCB9
+         End Object
+         Begin Object Name="MovieScene2DTransformTrack_5"
+            Begin Object Name="MovieScene2DTransformSection_0"
+               Begin Object Name="EaseOutFunction"
+               End Object
+               Begin Object Name="EaseInFunction"
+               End Object
+               Translation(0)=(Times=((),(Value=134999),(Value=167999)),Values=((),(),()))
+               Translation(1)=(Times=((),(Value=134999),(Value=167999)),Values=((Value=-30.000000),(Value=-30.000000),()))
+               EvalOptions=(CompletionMode=KeepState)
+               Easing=(EaseIn=MovieSceneBuiltInEasingFunction'WBP_Graph_11_POMDALT:intro.intro.MovieScene2DTransformTrack_5.MovieScene2DTransformSection_0.EaseInFunction',EaseOut=MovieSceneBuiltInEasingFunction'WBP_Graph_11_POMDALT:intro.intro.MovieScene2DTransformTrack_5.MovieScene2DTransformSection_0.EaseOutFunction')
+               SectionRange=Inclusive:0:Inclusive:167999
+               TimecodeSource=(DeltaFrame=(Value=134999))
+               Signature=392531EE4625502F8ADF19B668922E83
+            End Object
+            UniqueTrackName="RenderTransform"
+            PropertyBinding=(PropertyName="RenderTransform",PropertyPath="RenderTransform",bCanUseClassLookup=True)
+            Sections(0)=MovieScene2DTransformSection'"MovieScene2DTransformSection_0"'
+            DisplayName=NSLOCTEXT("UObjectDisplayNames", "Widget:RenderTransform", "Transform")
+            EvaluationFieldGuid=96EC6A514E2FFD1B7F9DBEB3118182B1
+            EvaluationField=(Entries=((Section=MovieScene2DTransformSection'"MovieScene2DTransformSection_0"',Range=(LowerBound=(Type=Inclusive),UpperBound=(Type=Inclusive,Value=(Value=167999))),ForcedTime=(Value=-2147483648))))
+            SortingOrder=0
+            Signature=96EC6A514E2FFD1B7F9DBEB3118182B1
+         End Object
+         Begin Object Name="MovieScene2DTransformTrack_4"
+            Begin Object Name="MovieScene2DTransformSection_0"
+               Begin Object Name="EaseOutFunction"
+               End Object
+               Begin Object Name="EaseInFunction"
+               End Object
+               Translation(0)=(Times=((),(Value=104999),(Value=137999)),Values=((),(),()))
+               Translation(1)=(Times=((),(Value=104999),(Value=137999)),Values=((Value=-30.000000),(Value=-30.000000),()))
+               EvalOptions=(CompletionMode=KeepState)
+               Easing=(EaseIn=MovieSceneBuiltInEasingFunction'WBP_Graph_11_POMDALT:intro.intro.MovieScene2DTransformTrack_4.MovieScene2DTransformSection_0.EaseInFunction',EaseOut=MovieSceneBuiltInEasingFunction'WBP_Graph_11_POMDALT:intro.intro.MovieScene2DTransformTrack_4.MovieScene2DTransformSection_0.EaseOutFunction')
+               SectionRange=Inclusive:0:Inclusive:137999
+               TimecodeSource=(DeltaFrame=(Value=104999))
+               Signature=B4F7870A4F206091933695861F7743DF
+            End Object
+            UniqueTrackName="RenderTransform"
+            PropertyBinding=(PropertyName="RenderTransform",PropertyPath="RenderTransform",bCanUseClassLookup=True)
+            Sections(0)=MovieScene2DTransformSection'"MovieScene2DTransformSection_0"'
+            DisplayName=NSLOCTEXT("UObjectDisplayNames", "Widget:RenderTransform", "Transform")
+            EvaluationFieldGuid=DE2DBAEA4575FBA88746568A921CFB75
+            EvaluationField=(Entries=((Section=MovieScene2DTransformSection'"MovieScene2DTransformSection_0"',Range=(LowerBound=(Type=Inclusive),UpperBound=(Type=Inclusive,Value=(Value=137999))),ForcedTime=(Value=-2147483648))))
+            SortingOrder=0
+            Signature=DE2DBAEA4575FBA88746568A921CFB75
+         End Object
+         Begin Object Name="MovieScene2DTransformTrack_3"
+            Begin Object Name="MovieScene2DTransformSection_0"
+               Begin Object Name="EaseOutFunction"
+               End Object
+               Begin Object Name="EaseInFunction"
+               End Object
+               Translation(0)=(Times=((),(Value=75000),(Value=108000)),Values=((),(),()))
+               Translation(1)=(Times=((),(Value=75000),(Value=108000)),Values=((Value=-30.000000),(Value=-30.000000),()))
+               EvalOptions=(CompletionMode=KeepState)
+               Easing=(EaseIn=MovieSceneBuiltInEasingFunction'WBP_Graph_11_POMDALT:intro.intro.MovieScene2DTransformTrack_3.MovieScene2DTransformSection_0.EaseInFunction',EaseOut=MovieSceneBuiltInEasingFunction'WBP_Graph_11_POMDALT:intro.intro.MovieScene2DTransformTrack_3.MovieScene2DTransformSection_0.EaseOutFunction')
+               SectionRange=Inclusive:0:Inclusive:108000
+               TimecodeSource=(DeltaFrame=(Value=75000))
+               Signature=AD7FDE16423B640974B470A72AC363BB
+            End Object
+            UniqueTrackName="RenderTransform"
+            PropertyBinding=(PropertyName="RenderTransform",PropertyPath="RenderTransform",bCanUseClassLookup=True)
+            Sections(0)=MovieScene2DTransformSection'"MovieScene2DTransformSection_0"'
+            DisplayName=NSLOCTEXT("UObjectDisplayNames", "Widget:RenderTransform", "Transform")
+            EvaluationFieldGuid=21DBA80E42AE89F7FE5DBFA2844D67F4
+            EvaluationField=(Entries=((Section=MovieScene2DTransformSection'"MovieScene2DTransformSection_0"',Range=(LowerBound=(Type=Inclusive),UpperBound=(Type=Inclusive,Value=(Value=108000))),ForcedTime=(Value=-2147483648))))
+            SortingOrder=0
+            Signature=21DBA80E42AE89F7FE5DBFA2844D67F4
+         End Object
+         Begin Object Name="MovieScene2DTransformTrack_2"
+            Begin Object Name="MovieScene2DTransformSection_0"
+               Begin Object Name="EaseOutFunction"
+               End Object
+               Begin Object Name="EaseInFunction"
+               End Object
+               Translation(0)=(Times=((),(Value=45000),(Value=78000)),Values=((),(),()))
+               Translation(1)=(Times=((),(Value=45000),(Value=78000)),Values=((Value=-30.000000),(Value=-30.000000),()))
+               Easing=(EaseIn=MovieSceneBuiltInEasingFunction'WBP_Graph_11_POMDALT:intro.intro.MovieScene2DTransformTrack_2.MovieScene2DTransformSection_0.EaseInFunction',EaseOut=MovieSceneBuiltInEasingFunction'WBP_Graph_11_POMDALT:intro.intro.MovieScene2DTransformTrack_2.MovieScene2DTransformSection_0.EaseOutFunction')
+               SectionRange=Inclusive:0:Inclusive:78000
+               TimecodeSource=(DeltaFrame=(Value=45000))
+               Signature=C03408684A720B7426465E95711BE506
+            End Object
+            UniqueTrackName="RenderTransform"
+            PropertyBinding=(PropertyName="RenderTransform",PropertyPath="RenderTransform",bCanUseClassLookup=True)
+            Sections(0)=MovieScene2DTransformSection'"MovieScene2DTransformSection_0"'
+            DisplayName=NSLOCTEXT("UObjectDisplayNames", "Widget:RenderTransform", "Transform")
+            EvaluationFieldGuid=EFBEA1934CDE1D73091854B0B2601006
+            EvaluationField=(Entries=((Section=MovieScene2DTransformSection'"MovieScene2DTransformSection_0"',Range=(LowerBound=(Type=Inclusive),UpperBound=(Type=Inclusive,Value=(Value=78000))),ForcedTime=(Value=-2147483648))))
+            SortingOrder=0
+            Signature=EFBEA1934CDE1D73091854B0B2601006
+         End Object
+         Begin Object Name="MovieScene2DTransformTrack_1"
+            Begin Object Name="MovieScene2DTransformSection_0"
+               Begin Object Name="EaseOutFunction"
+               End Object
+               Begin Object Name="EaseInFunction"
+               End Object
+               Translation(0)=(Times=((),(Value=14999),(Value=47999)),Values=((),(),()))
+               Translation(1)=(Times=((),(Value=14999),(Value=47999)),Values=((Value=-30.000000),(Value=-30.000000),()))
+               EvalOptions=(CompletionMode=KeepState)
+               Easing=(EaseIn=MovieSceneBuiltInEasingFunction'WBP_Graph_11_POMDALT:intro.intro.MovieScene2DTransformTrack_1.MovieScene2DTransformSection_0.EaseInFunction',EaseOut=MovieSceneBuiltInEasingFunction'WBP_Graph_11_POMDALT:intro.intro.MovieScene2DTransformTrack_1.MovieScene2DTransformSection_0.EaseOutFunction')
+               SectionRange=Inclusive:0:Inclusive:47999
+               TimecodeSource=(DeltaFrame=(Value=14999))
+               Signature=9BE2709E4C3FA5CBD211B79A8E784EAA
+            End Object
+            UniqueTrackName="RenderTransform"
+            PropertyBinding=(PropertyName="RenderTransform",PropertyPath="RenderTransform",bCanUseClassLookup=True)
+            Sections(0)=MovieScene2DTransformSection'"MovieScene2DTransformSection_0"'
+            DisplayName=NSLOCTEXT("UObjectDisplayNames", "Widget:RenderTransform", "Transform")
+            EvaluationFieldGuid=F07E849D4DA03C657FF74B9042CE6997
+            EvaluationField=(Entries=((Section=MovieScene2DTransformSection'"MovieScene2DTransformSection_0"',Range=(LowerBound=(Type=Inclusive),UpperBound=(Type=Inclusive,Value=(Value=47999))),ForcedTime=(Value=-2147483648))))
+            SortingOrder=0
+            Signature=F07E849D4DA03C657FF74B9042CE6997
+         End Object
+         Begin Object Name="MovieSceneMarginTrack_8"
+            Begin Object Name="MovieSceneMarginSection_0"
+               Begin Object Name="EaseOutFunction"
+               End Object
+               Begin Object Name="EaseInFunction"
+               End Object
+               RightCurve=(Times=((),(Value=240004),(Value=300004)),Values=((),(),()))
+               EvalOptions=(CompletionMode=KeepState)
+               Easing=(EaseIn=MovieSceneBuiltInEasingFunction'WBP_Graph_11_POMDALT:intro.intro.MovieSceneMarginTrack_8.MovieSceneMarginSection_0.EaseInFunction',EaseOut=MovieSceneBuiltInEasingFunction'WBP_Graph_11_POMDALT:intro.intro.MovieSceneMarginTrack_8.MovieSceneMarginSection_0.EaseOutFunction')
+               SectionRange=Inclusive:0:Inclusive:300004
+               TimecodeSource=(DeltaFrame=(Value=240004))
+               Signature=830C198C4E64ADE6DCE0A6AD0984DA3C
+            End Object
+            UniqueTrackName="LayoutData.Offsets"
+            PropertyBinding=(PropertyName="Offsets",PropertyPath="LayoutData.Offsets")
+            Sections(0)=MovieSceneMarginSection'"MovieSceneMarginSection_0"'
+            DisplayName=LOCGEN_FORMAT_ORDERED(NSLOCTEXT("PropertyTrackEditor", "DisplayTextStructFormat", "{0} ({1})"), NSLOCTEXT("UObjectDisplayNames", "AnchorData:Offsets", "Offsets"), NSLOCTEXT("UObjectDisplayNames", "CanvasPanelSlot:LayoutData", "Layout Data"))
+            EvaluationFieldGuid=96BB2E034F77112222B9E38C6ED8524B
+            EvaluationField=(Entries=((Section=MovieSceneMarginSection'"MovieSceneMarginSection_0"',Range=(LowerBound=(Type=Inclusive),UpperBound=(Type=Inclusive,Value=(Value=300004))),ForcedTime=(Value=-2147483648))))
+            SortingOrder=0
+            Signature=96BB2E034F77112222B9E38C6ED8524B
+         End Object
+         Begin Object Name="MovieSceneMarginTrack_7"
+            Begin Object Name="MovieSceneMarginSection_0"
+               Begin Object Name="EaseOutFunction"
+               End Object
+               Begin Object Name="EaseInFunction"
+               End Object
+               RightCurve=(Times=((),(Value=210001),(Value=270001)),Values=((),(),(Value=1300.000000)))
+               EvalOptions=(CompletionMode=KeepState)
+               Easing=(EaseIn=MovieSceneBuiltInEasingFunction'WBP_Graph_11_POMDALT:intro.intro.MovieSceneMarginTrack_7.MovieSceneMarginSection_0.EaseInFunction',EaseOut=MovieSceneBuiltInEasingFunction'WBP_Graph_11_POMDALT:intro.intro.MovieSceneMarginTrack_7.MovieSceneMarginSection_0.EaseOutFunction')
+               SectionRange=Inclusive:0:Inclusive:270001
+               TimecodeSource=(DeltaFrame=(Value=210001))
+               Signature=D7D8F4A745C36D314800598F9C489715
+            End Object
+            UniqueTrackName="LayoutData.Offsets"
+            PropertyBinding=(PropertyName="Offsets",PropertyPath="LayoutData.Offsets")
+            Sections(0)=MovieSceneMarginSection'"MovieSceneMarginSection_0"'
+            DisplayName=LOCGEN_FORMAT_ORDERED(NSLOCTEXT("PropertyTrackEditor", "DisplayTextStructFormat", "{0} ({1})"), NSLOCTEXT("UObjectDisplayNames", "AnchorData:Offsets", "Offsets"), NSLOCTEXT("UObjectDisplayNames", "CanvasPanelSlot:LayoutData", "Layout Data"))
+            EvaluationFieldGuid=65A9848642D794E915174397F7EEA07D
+            EvaluationField=(Entries=((Section=MovieSceneMarginSection'"MovieSceneMarginSection_0"',Range=(LowerBound=(Type=Inclusive),UpperBound=(Type=Inclusive,Value=(Value=270001))),ForcedTime=(Value=-2147483648))))
+            SortingOrder=0
+            Signature=65A9848642D794E915174397F7EEA07D
+         End Object
+         Begin Object Name="MovieSceneMarginTrack_6"
+            Begin Object Name="MovieSceneMarginSection_0"
+               Begin Object Name="EaseOutFunction"
+               End Object
+               Begin Object Name="EaseInFunction"
+               End Object
+               RightCurve=(Times=((),(Value=180003),(Value=240003)),Values=((),(),(Value=1300.000000)))
+               EvalOptions=(CompletionMode=KeepState)
+               Easing=(EaseIn=MovieSceneBuiltInEasingFunction'WBP_Graph_11_POMDALT:intro.intro.MovieSceneMarginTrack_6.MovieSceneMarginSection_0.EaseInFunction',EaseOut=MovieSceneBuiltInEasingFunction'WBP_Graph_11_POMDALT:intro.intro.MovieSceneMarginTrack_6.MovieSceneMarginSection_0.EaseOutFunction')
+               SectionRange=Inclusive:0:Inclusive:240003
+               TimecodeSource=(DeltaFrame=(Value=180003))
+               Signature=387EB8664C49058EDF038999F96353FB
+            End Object
+            UniqueTrackName="LayoutData.Offsets"
+            PropertyBinding=(PropertyName="Offsets",PropertyPath="LayoutData.Offsets")
+            Sections(0)=MovieSceneMarginSection'"MovieSceneMarginSection_0"'
+            DisplayName=LOCGEN_FORMAT_ORDERED(NSLOCTEXT("PropertyTrackEditor", "DisplayTextStructFormat", "{0} ({1})"), NSLOCTEXT("UObjectDisplayNames", "AnchorData:Offsets", "Offsets"), NSLOCTEXT("UObjectDisplayNames", "CanvasPanelSlot:LayoutData", "Layout Data"))
+            EvaluationFieldGuid=C218320B46631C66894E28B5414F6328
+            EvaluationField=(Entries=((Section=MovieSceneMarginSection'"MovieSceneMarginSection_0"',Range=(LowerBound=(Type=Inclusive),UpperBound=(Type=Inclusive,Value=(Value=240003))),ForcedTime=(Value=-2147483648))))
+            SortingOrder=0
+            Signature=C218320B46631C66894E28B5414F6328
+         End Object
+         Begin Object Name="MovieSceneMarginTrack_5"
+            Begin Object Name="MovieSceneMarginSection_0"
+               Begin Object Name="EaseOutFunction"
+               End Object
+               Begin Object Name="EaseInFunction"
+               End Object
+               RightCurve=(Times=((),(Value=150001),(Value=210001)),Values=((),(),(Value=1300.000000)))
+               EvalOptions=(CompletionMode=KeepState)
+               Easing=(EaseIn=MovieSceneBuiltInEasingFunction'WBP_Graph_11_POMDALT:intro.intro.MovieSceneMarginTrack_5.MovieSceneMarginSection_0.EaseInFunction',EaseOut=MovieSceneBuiltInEasingFunction'WBP_Graph_11_POMDALT:intro.intro.MovieSceneMarginTrack_5.MovieSceneMarginSection_0.EaseOutFunction')
+               SectionRange=Inclusive:0:Inclusive:210001
+               TimecodeSource=(DeltaFrame=(Value=150001))
+               Signature=A485A88642DAD1E8F45D5C88B0ABB9B3
+            End Object
+            UniqueTrackName="LayoutData.Offsets"
+            PropertyBinding=(PropertyName="Offsets",PropertyPath="LayoutData.Offsets")
+            Sections(0)=MovieSceneMarginSection'"MovieSceneMarginSection_0"'
+            DisplayName=LOCGEN_FORMAT_ORDERED(NSLOCTEXT("PropertyTrackEditor", "DisplayTextStructFormat", "{0} ({1})"), NSLOCTEXT("UObjectDisplayNames", "AnchorData:Offsets", "Offsets"), NSLOCTEXT("UObjectDisplayNames", "CanvasPanelSlot:LayoutData", "Layout Data"))
+            EvaluationFieldGuid=7CB51EA84578DFDBB151AAAFAD89017B
+            EvaluationField=(Entries=((Section=MovieSceneMarginSection'"MovieSceneMarginSection_0"',Range=(LowerBound=(Type=Inclusive),UpperBound=(Type=Inclusive,Value=(Value=210001))),ForcedTime=(Value=-2147483648))))
+            SortingOrder=0
+            Signature=7CB51EA84578DFDBB151AAAFAD89017B
+         End Object
+         Begin Object Name="MovieSceneMarginTrack_4"
+            Begin Object Name="MovieSceneMarginSection_0"
+               Begin Object Name="EaseOutFunction"
+               End Object
+               Begin Object Name="EaseInFunction"
+               End Object
+               RightCurve=(Times=((),(Value=120002),(Value=180002)),Values=((),(),(Value=1300.000000)))
+               EvalOptions=(CompletionMode=KeepState)
+               Easing=(EaseIn=MovieSceneBuiltInEasingFunction'WBP_Graph_11_POMDALT:intro.intro.MovieSceneMarginTrack_4.MovieSceneMarginSection_0.EaseInFunction',EaseOut=MovieSceneBuiltInEasingFunction'WBP_Graph_11_POMDALT:intro.intro.MovieSceneMarginTrack_4.MovieSceneMarginSection_0.EaseOutFunction')
+               SectionRange=Inclusive:0:Inclusive:180002
+               TimecodeSource=(DeltaFrame=(Value=120002))
+               Signature=19127B10428070B44E9D2B8A012908E4
+            End Object
+            UniqueTrackName="LayoutData.Offsets"
+            PropertyBinding=(PropertyName="Offsets",PropertyPath="LayoutData.Offsets")
+            Sections(0)=MovieSceneMarginSection'"MovieSceneMarginSection_0"'
+            DisplayName=LOCGEN_FORMAT_ORDERED(NSLOCTEXT("PropertyTrackEditor", "DisplayTextStructFormat", "{0} ({1})"), NSLOCTEXT("UObjectDisplayNames", "AnchorData:Offsets", "Offsets"), NSLOCTEXT("UObjectDisplayNames", "CanvasPanelSlot:LayoutData", "Layout Data"))
+            EvaluationFieldGuid=BE15EA054190B08B2D3038B7BA714DCC
+            EvaluationField=(Entries=((Section=MovieSceneMarginSection'"MovieSceneMarginSection_0"',Range=(LowerBound=(Type=Inclusive),UpperBound=(Type=Inclusive,Value=(Value=180002))),ForcedTime=(Value=-2147483648))))
+            SortingOrder=0
+            Signature=BE15EA054190B08B2D3038B7BA714DCC
+         End Object
+         Begin Object Name="MovieSceneMarginTrack_3"
+            Begin Object Name="MovieSceneMarginSection_0"
+               Begin Object Name="EaseOutFunction"
+               End Object
+               Begin Object Name="EaseInFunction"
+               End Object
+               RightCurve=(Times=((),(Value=90000),(Value=150000)),Values=((),(),(Value=1300.000000)))
+               EvalOptions=(CompletionMode=KeepState)
+               Easing=(EaseIn=MovieSceneBuiltInEasingFunction'WBP_Graph_11_POMDALT:intro.intro.MovieSceneMarginTrack_3.MovieSceneMarginSection_0.EaseInFunction',EaseOut=MovieSceneBuiltInEasingFunction'WBP_Graph_11_POMDALT:intro.intro.MovieSceneMarginTrack_3.MovieSceneMarginSection_0.EaseOutFunction')
+               SectionRange=Inclusive:0:Inclusive:150000
+               TimecodeSource=(DeltaFrame=(Value=90000))
+               Signature=D384282B468F132D8B1D6A8194A6F8BE
+            End Object
+            UniqueTrackName="LayoutData.Offsets"
+            PropertyBinding=(PropertyName="Offsets",PropertyPath="LayoutData.Offsets")
+            Sections(0)=MovieSceneMarginSection'"MovieSceneMarginSection_0"'
+            DisplayName=LOCGEN_FORMAT_ORDERED(NSLOCTEXT("PropertyTrackEditor", "DisplayTextStructFormat", "{0} ({1})"), NSLOCTEXT("UObjectDisplayNames", "AnchorData:Offsets", "Offsets"), NSLOCTEXT("UObjectDisplayNames", "CanvasPanelSlot:LayoutData", "Layout Data"))
+            EvaluationFieldGuid=A75062C84CDF4B128F8B10B2B69F8FD8
+            EvaluationField=(Entries=((Section=MovieSceneMarginSection'"MovieSceneMarginSection_0"',Range=(LowerBound=(Type=Inclusive),UpperBound=(Type=Inclusive,Value=(Value=150000))),ForcedTime=(Value=-2147483648))))
+            SortingOrder=0
+            Signature=A75062C84CDF4B128F8B10B2B69F8FD8
+         End Object
+         Begin Object Name="MovieSceneMarginTrack_2"
+            Begin Object Name="MovieSceneMarginSection_0"
+               Begin Object Name="EaseOutFunction"
+               End Object
+               Begin Object Name="EaseInFunction"
+               End Object
+               RightCurve=(Times=((),(Value=60001),(Value=120001)),Values=((),(),(Value=1300.000000)))
+               EvalOptions=(CompletionMode=KeepState)
+               Easing=(EaseIn=MovieSceneBuiltInEasingFunction'WBP_Graph_11_POMDALT:intro.intro.MovieSceneMarginTrack_2.MovieSceneMarginSection_0.EaseInFunction',EaseOut=MovieSceneBuiltInEasingFunction'WBP_Graph_11_POMDALT:intro.intro.MovieSceneMarginTrack_2.MovieSceneMarginSection_0.EaseOutFunction')
+               SectionRange=Inclusive:0:Inclusive:120001
+               TimecodeSource=(DeltaFrame=(Value=60001))
+               Signature=F2E9B9F3428C07E4751990AC08AFAD22
+            End Object
+            UniqueTrackName="LayoutData.Offsets"
+            PropertyBinding=(PropertyName="Offsets",PropertyPath="LayoutData.Offsets")
+            Sections(0)=MovieSceneMarginSection'"MovieSceneMarginSection_0"'
+            DisplayName=LOCGEN_FORMAT_ORDERED(NSLOCTEXT("PropertyTrackEditor", "DisplayTextStructFormat", "{0} ({1})"), NSLOCTEXT("UObjectDisplayNames", "AnchorData:Offsets", "Offsets"), NSLOCTEXT("UObjectDisplayNames", "CanvasPanelSlot:LayoutData", "Layout Data"))
+            EvaluationFieldGuid=14F7CB154D4DE025020FF789519D3727
+            EvaluationField=(Entries=((Section=MovieSceneMarginSection'"MovieSceneMarginSection_0"',Range=(LowerBound=(Type=Inclusive),UpperBound=(Type=Inclusive,Value=(Value=120001))),ForcedTime=(Value=-2147483648))))
+            SortingOrder=0
+            Signature=14F7CB154D4DE025020FF789519D3727
+         End Object
+         Begin Object Name="MovieSceneMarginTrack_1"
+            Begin Object Name="MovieSceneMarginSection_0"
+               Begin Object Name="EaseOutFunction"
+               End Object
+               Begin Object Name="EaseInFunction"
+               End Object
+               RightCurve=(Times=((),(Value=30000),(Value=90000)),Values=((),(),(Value=1300.000000)))
+               EvalOptions=(CompletionMode=KeepState)
+               Easing=(EaseIn=MovieSceneBuiltInEasingFunction'WBP_Graph_11_POMDALT:intro.intro.MovieSceneMarginTrack_1.MovieSceneMarginSection_0.EaseInFunction',EaseOut=MovieSceneBuiltInEasingFunction'WBP_Graph_11_POMDALT:intro.intro.MovieSceneMarginTrack_1.MovieSceneMarginSection_0.EaseOutFunction')
+               SectionRange=Inclusive:0:Inclusive:90000
+               TimecodeSource=(DeltaFrame=(Value=30000))
+               Signature=295958254CAE69721DD7479F2FE8A5EC
+            End Object
+            UniqueTrackName="LayoutData.Offsets"
+            PropertyBinding=(PropertyName="Offsets",PropertyPath="LayoutData.Offsets")
+            Sections(0)=MovieSceneMarginSection'"MovieSceneMarginSection_0"'
+            DisplayName=LOCGEN_FORMAT_ORDERED(NSLOCTEXT("PropertyTrackEditor", "DisplayTextStructFormat", "{0} ({1})"), NSLOCTEXT("UObjectDisplayNames", "AnchorData:Offsets", "Offsets"), NSLOCTEXT("UObjectDisplayNames", "CanvasPanelSlot:LayoutData", "Layout Data"))
+            EvaluationFieldGuid=0BDC446843808C2C8E8BC1BA55119692
+            EvaluationField=(Entries=((Section=MovieSceneMarginSection'"MovieSceneMarginSection_0"',Range=(LowerBound=(Type=Inclusive),UpperBound=(Type=Inclusive,Value=(Value=90000))),ForcedTime=(Value=-2147483648))))
+            SortingOrder=0
+            Signature=0BDC446843808C2C8E8BC1BA55119692
+         End Object
+         Begin Object Name="MovieSceneMarginTrack_0"
+            Begin Object Name="MovieSceneMarginSection_0"
+               Begin Object Name="EaseOutFunction"
+               End Object
+               Begin Object Name="EaseInFunction"
+               End Object
+               RightCurve=(Times=((),(Value=60000)),Values=((),(Value=1300.000000)))
+               EvalOptions=(CompletionMode=KeepState)
+               Easing=(EaseIn=MovieSceneBuiltInEasingFunction'WBP_Graph_11_POMDALT:intro.intro.MovieSceneMarginTrack_0.MovieSceneMarginSection_0.EaseInFunction',EaseOut=MovieSceneBuiltInEasingFunction'WBP_Graph_11_POMDALT:intro.intro.MovieSceneMarginTrack_0.MovieSceneMarginSection_0.EaseOutFunction')
+               SectionRange=Inclusive:0:Inclusive:60000
+               Signature=E4784D9D45C0C0DA987F75B176D3D362
+            End Object
+            UniqueTrackName="LayoutData.Offsets"
+            PropertyBinding=(PropertyName="Offsets",PropertyPath="LayoutData.Offsets")
+            Sections(0)=MovieSceneMarginSection'"MovieSceneMarginSection_0"'
+            DisplayName=LOCGEN_FORMAT_ORDERED(NSLOCTEXT("PropertyTrackEditor", "DisplayTextStructFormat", "{0} ({1})"), NSLOCTEXT("UObjectDisplayNames", "AnchorData:Offsets", "Offsets"), NSLOCTEXT("UObjectDisplayNames", "CanvasPanelSlot:LayoutData", "Layout Data"))
+            EvaluationFieldGuid=BEE07DDF4BB2034C67C0F3B36540E77D
+            EvaluationField=(Entries=((Section=MovieSceneMarginSection'"MovieSceneMarginSection_0"',Range=(LowerBound=(Type=Inclusive),UpperBound=(Type=Inclusive,Value=(Value=60000))),ForcedTime=(Value=-2147483648))))
+            SortingOrder=0
+            Signature=BEE07DDF4BB2034C67C0F3B36540E77D
+         End Object
+         Begin Object Name="NodeGroupCollection"
+            Begin Object Name="MovieSceneNodeGroup_0"
+               Name="lINES"
+               Nodes(0)="80F07B0147378C5A2AC4F2B861001FD5"
+               Nodes(1)="80F07B0147378C5A2AC4F2B861001FD5.3FA43FA946A2CE38698E68817EAB90EC"
+               Nodes(2)="80F07B0147378C5A2AC4F2B861001FD5.3FA43FA946A2CE38698E68817EAB90EC.MovieSceneMarginTrack_0"
+               Nodes(3)="8FAD571B496A24EB03295FA4DCDA56A9"
+               Nodes(4)="8FAD571B496A24EB03295FA4DCDA56A9.BE882F9A446686882C2619B812F80CD8"
+               Nodes(5)="8FAD571B496A24EB03295FA4DCDA56A9.BE882F9A446686882C2619B812F80CD8.MovieSceneMarginTrack_1"
+               Nodes(6)="C59D160C4D3DD800218441B427A7CB21"
+               Nodes(7)="C59D160C4D3DD800218441B427A7CB21.1D846532466C5C0DE1CBCDA9FF344587"
+               Nodes(8)="C59D160C4D3DD800218441B427A7CB21.1D846532466C5C0DE1CBCDA9FF344587.MovieSceneMarginTrack_2"
+               Nodes(9)="8D64FBC9466FA3F4F5CAEEAE584BE699"
+               Nodes(10)="8D64FBC9466FA3F4F5CAEEAE584BE699.3A0D331D48C7260FB7B6048601700454"
+               Nodes(11)="8D64FBC9466FA3F4F5CAEEAE584BE699.3A0D331D48C7260FB7B6048601700454.MovieSceneMarginTrack_3"
+               Nodes(12)="8243C534491323B636577EA5D1DC4943"
+               Nodes(13)="8243C534491323B636577EA5D1DC4943.2548AFC6436E5C413BEECB9E09B35887"
+               Nodes(14)="8243C534491323B636577EA5D1DC4943.2548AFC6436E5C413BEECB9E09B35887.MovieSceneMarginTrack_4"
+               Nodes(15)="2FC1BA4D4C2EFAC53C1C86859264F50E"
+               Nodes(16)="2FC1BA4D4C2EFAC53C1C86859264F50E.01F0C53E4C523EBEC54DFE8EDEBD944D"
+               Nodes(17)="2FC1BA4D4C2EFAC53C1C86859264F50E.01F0C53E4C523EBEC54DFE8EDEBD944D.MovieSceneMarginTrack_5"
+               Nodes(18)="7DE835BD40A752B1A644CB85B9F704A4"
+               Nodes(19)="7DE835BD40A752B1A644CB85B9F704A4.35279DE346E03FAC3A673799609AF31F"
+               Nodes(20)="7DE835BD40A752B1A644CB85B9F704A4.35279DE346E03FAC3A673799609AF31F.MovieSceneMarginTrack_6"
+               Nodes(21)="8080EC99474FC0C89C6D169E6B3A6513"
+               Nodes(22)="8080EC99474FC0C89C6D169E6B3A6513.7652EECB48078650E8B7469EC7CB3C10"
+               Nodes(23)="8080EC99474FC0C89C6D169E6B3A6513.7652EECB48078650E8B7469EC7CB3C10.MovieSceneMarginTrack_7"
+               Nodes(24)="E78FEFC748CCA4D8F96517A26594E818"
+            End Object
+            NodeGroups(0)=MovieSceneNodeGroup'"MovieSceneNodeGroup_0"'
+         End Object
+         Possessables(0)=(Guid=80F07B0147378C5A2AC4F2B861001FD5,Name="HorizontalBox1",PossessedObjectClass=Class'"/Script/UMG.HorizontalBox"')
+         Possessables(1)=(Guid=3FA43FA946A2CE38698E68817EAB90EC,Name="CanvasPanelSlot_78",PossessedObjectClass=Class'"/Script/UMG.CanvasPanelSlot"',ParentGuid=80F07B0147378C5A2AC4F2B861001FD5)
+         Possessables(2)=(Guid=BE882F9A446686882C2619B812F80CD8,Name="CanvasPanelSlot_59",PossessedObjectClass=Class'"/Script/UMG.CanvasPanelSlot"',ParentGuid=8FAD571B496A24EB03295FA4DCDA56A9)
+         Possessables(3)=(Guid=8FAD571B496A24EB03295FA4DCDA56A9,Name="HorizontalBox2",PossessedObjectClass=Class'"/Script/UMG.HorizontalBox"')
+         Possessables(4)=(Guid=1D846532466C5C0DE1CBCDA9FF344587,Name="CanvasPanelSlot_63",PossessedObjectClass=Class'"/Script/UMG.CanvasPanelSlot"',ParentGuid=C59D160C4D3DD800218441B427A7CB21)
+         Possessables(5)=(Guid=C59D160C4D3DD800218441B427A7CB21,Name="HorizontalBox3",PossessedObjectClass=Class'"/Script/UMG.HorizontalBox"')
+         Possessables(6)=(Guid=3A0D331D48C7260FB7B6048601700454,Name="CanvasPanelSlot_67",PossessedObjectClass=Class'"/Script/UMG.CanvasPanelSlot"',ParentGuid=8D64FBC9466FA3F4F5CAEEAE584BE699)
+         Possessables(7)=(Guid=8D64FBC9466FA3F4F5CAEEAE584BE699,Name="HorizontalBox4",PossessedObjectClass=Class'"/Script/UMG.HorizontalBox"')
+         Possessables(8)=(Guid=2548AFC6436E5C413BEECB9E09B35887,Name="CanvasPanelSlot_68",PossessedObjectClass=Class'"/Script/UMG.CanvasPanelSlot"',ParentGuid=8243C534491323B636577EA5D1DC4943)
+         Possessables(9)=(Guid=8243C534491323B636577EA5D1DC4943,Name="HorizontalBox5",PossessedObjectClass=Class'"/Script/UMG.HorizontalBox"')
+         Possessables(10)=(Guid=01F0C53E4C523EBEC54DFE8EDEBD944D,Name="CanvasPanelSlot_69",PossessedObjectClass=Class'"/Script/UMG.CanvasPanelSlot"',ParentGuid=2FC1BA4D4C2EFAC53C1C86859264F50E)
+         Possessables(11)=(Guid=2FC1BA4D4C2EFAC53C1C86859264F50E,Name="HorizontalBox6",PossessedObjectClass=Class'"/Script/UMG.HorizontalBox"')
+         Possessables(12)=(Guid=35279DE346E03FAC3A673799609AF31F,Name="CanvasPanelSlot_73",PossessedObjectClass=Class'"/Script/UMG.CanvasPanelSlot"',ParentGuid=7DE835BD40A752B1A644CB85B9F704A4)
+         Possessables(13)=(Guid=7DE835BD40A752B1A644CB85B9F704A4,Name="HorizontalBox7",PossessedObjectClass=Class'"/Script/UMG.HorizontalBox"')
+         Possessables(14)=(Guid=7652EECB48078650E8B7469EC7CB3C10,Name="CanvasPanelSlot_74",PossessedObjectClass=Class'"/Script/UMG.CanvasPanelSlot"',ParentGuid=8080EC99474FC0C89C6D169E6B3A6513)
+         Possessables(15)=(Guid=8080EC99474FC0C89C6D169E6B3A6513,Name="HorizontalBox8",PossessedObjectClass=Class'"/Script/UMG.HorizontalBox"')
+         Possessables(16)=(Guid=89158890494BDE5EDFEAB1A429D8204D,Name="CanvasPanelSlot_79",PossessedObjectClass=Class'"/Script/UMG.CanvasPanelSlot"',ParentGuid=E78FEFC748CCA4D8F96517A26594E818)
+         Possessables(17)=(Guid=E78FEFC748CCA4D8F96517A26594E818,Name="HorizontalBox9",PossessedObjectClass=Class'"/Script/UMG.HorizontalBox"')
+         Possessables(18)=(Guid=FE5231474264B745E6CCB7B13D9C045F,Name="Text1",PossessedObjectClass=Class'"/Script/UMG.TextBlock"')
+         Possessables(19)=(Guid=F8F145A84D3FEF58FEDF0CAD6D18D3A2,Name="Text2",PossessedObjectClass=Class'"/Script/UMG.TextBlock"')
+         Possessables(20)=(Guid=7003A04F46CBA98E6D4A45A4E3241941,Name="Text3",PossessedObjectClass=Class'"/Script/UMG.TextBlock"')
+         Possessables(21)=(Guid=0DA37A214C0004D2CE237E88D1C30BE4,Name="Text4",PossessedObjectClass=Class'"/Script/UMG.TextBlock"')
+         Possessables(22)=(Guid=AFC0DF3F46ABB0EDDCACBABD88760213,Name="Text5",PossessedObjectClass=Class'"/Script/UMG.TextBlock"')
+         Possessables(23)=(Guid=117A617D41890C86DFB0049833B22E51,Name="Text6",PossessedObjectClass=Class'"/Script/UMG.TextBlock"')
+         Possessables(24)=(Guid=2B7724A1427E1D342814DAB37E3BABD3,Name="Text7",PossessedObjectClass=Class'"/Script/UMG.TextBlock"')
+         Possessables(25)=(Guid=F8227C8B43E32685458144A13D58E6F4,Name="Text8",PossessedObjectClass=Class'"/Script/UMG.TextBlock"')
+         Possessables(26)=(Guid=FD3CD6564213960BB24FA4BE97978780,Name="Text9",PossessedObjectClass=Class'"/Script/UMG.TextBlock"')
+         Possessables(27)=(Guid=9E69FED64273BEC893E390BA2E7F7AD7,Name="TextA",PossessedObjectClass=Class'"/Script/UMG.TextBlock"')
+         Possessables(28)=(Guid=A30E567142379E82E0F8938E12DA44EA,Name="TextB",PossessedObjectClass=Class'"/Script/UMG.TextBlock"')
+         Possessables(29)=(Guid=CFB9085040D48CDAEB5F85946B1935BA,Name="TextC",PossessedObjectClass=Class'"/Script/UMG.TextBlock"')
+         ObjectBindings(0)=(ObjectGuid=80F07B0147378C5A2AC4F2B861001FD5,BindingName="HorizontalBox1",SortingOrder=0)
+         ObjectBindings(1)=(ObjectGuid=3FA43FA946A2CE38698E68817EAB90EC,BindingName="CanvasPanelSlot_78",Tracks=(MovieSceneMarginTrack'"MovieSceneMarginTrack_0"'),SortingOrder=0)
+         ObjectBindings(2)=(ObjectGuid=BE882F9A446686882C2619B812F80CD8,BindingName="CanvasPanelSlot_59",Tracks=(MovieSceneMarginTrack'"MovieSceneMarginTrack_1"'),SortingOrder=0)
+         ObjectBindings(3)=(ObjectGuid=8FAD571B496A24EB03295FA4DCDA56A9,BindingName="HorizontalBox2",SortingOrder=1)
+         ObjectBindings(4)=(ObjectGuid=1D846532466C5C0DE1CBCDA9FF344587,BindingName="CanvasPanelSlot_63",Tracks=(MovieSceneMarginTrack'"MovieSceneMarginTrack_2"'),SortingOrder=0)
+         ObjectBindings(5)=(ObjectGuid=C59D160C4D3DD800218441B427A7CB21,BindingName="HorizontalBox3",SortingOrder=2)
+         ObjectBindings(6)=(ObjectGuid=3A0D331D48C7260FB7B6048601700454,BindingName="CanvasPanelSlot_67",Tracks=(MovieSceneMarginTrack'"MovieSceneMarginTrack_3"'),SortingOrder=0)
+         ObjectBindings(7)=(ObjectGuid=8D64FBC9466FA3F4F5CAEEAE584BE699,BindingName="HorizontalBox4",SortingOrder=3)
+         ObjectBindings(8)=(ObjectGuid=2548AFC6436E5C413BEECB9E09B35887,BindingName="CanvasPanelSlot_68",Tracks=(MovieSceneMarginTrack'"MovieSceneMarginTrack_4"'),SortingOrder=0)
+         ObjectBindings(9)=(ObjectGuid=8243C534491323B636577EA5D1DC4943,BindingName="HorizontalBox5",SortingOrder=4)
+         ObjectBindings(10)=(ObjectGuid=01F0C53E4C523EBEC54DFE8EDEBD944D,BindingName="CanvasPanelSlot_69",Tracks=(MovieSceneMarginTrack'"MovieSceneMarginTrack_5"'),SortingOrder=0)
+         ObjectBindings(11)=(ObjectGuid=2FC1BA4D4C2EFAC53C1C86859264F50E,BindingName="HorizontalBox6",SortingOrder=5)
+         ObjectBindings(12)=(ObjectGuid=35279DE346E03FAC3A673799609AF31F,BindingName="CanvasPanelSlot_73",Tracks=(MovieSceneMarginTrack'"MovieSceneMarginTrack_6"'),SortingOrder=0)
+         ObjectBindings(13)=(ObjectGuid=7DE835BD40A752B1A644CB85B9F704A4,BindingName="HorizontalBox7",SortingOrder=6)
+         ObjectBindings(14)=(ObjectGuid=7652EECB48078650E8B7469EC7CB3C10,BindingName="CanvasPanelSlot_74",Tracks=(MovieSceneMarginTrack'"MovieSceneMarginTrack_7"'),SortingOrder=0)
+         ObjectBindings(15)=(ObjectGuid=8080EC99474FC0C89C6D169E6B3A6513,BindingName="HorizontalBox8",SortingOrder=7)
+         ObjectBindings(16)=(ObjectGuid=89158890494BDE5EDFEAB1A429D8204D,BindingName="CanvasPanelSlot_79",Tracks=(MovieSceneMarginTrack'"MovieSceneMarginTrack_8"'),SortingOrder=0)
+         ObjectBindings(17)=(ObjectGuid=E78FEFC748CCA4D8F96517A26594E818,BindingName="HorizontalBox9",SortingOrder=8)
+         ObjectBindings(18)=(ObjectGuid=FE5231474264B745E6CCB7B13D9C045F,BindingName="Text1",Tracks=(MovieScene2DTransformTrack'"MovieScene2DTransformTrack_1"'),SortingOrder=9)
+         ObjectBindings(19)=(ObjectGuid=F8F145A84D3FEF58FEDF0CAD6D18D3A2,BindingName="Text2",Tracks=(MovieScene2DTransformTrack'"MovieScene2DTransformTrack_2"'),SortingOrder=10)
+         ObjectBindings(20)=(ObjectGuid=7003A04F46CBA98E6D4A45A4E3241941,BindingName="Text3",Tracks=(MovieScene2DTransformTrack'"MovieScene2DTransformTrack_3"'),SortingOrder=11)
+         ObjectBindings(21)=(ObjectGuid=0DA37A214C0004D2CE237E88D1C30BE4,BindingName="Text4",Tracks=(MovieScene2DTransformTrack'"MovieScene2DTransformTrack_4"'),SortingOrder=12)
+         ObjectBindings(22)=(ObjectGuid=AFC0DF3F46ABB0EDDCACBABD88760213,BindingName="Text5",Tracks=(MovieScene2DTransformTrack'"MovieScene2DTransformTrack_5"'),SortingOrder=13)
+         ObjectBindings(23)=(ObjectGuid=117A617D41890C86DFB0049833B22E51,BindingName="Text6",Tracks=(MovieScene2DTransformTrack'"MovieScene2DTransformTrack_6"'),SortingOrder=14)
+         ObjectBindings(24)=(ObjectGuid=2B7724A1427E1D342814DAB37E3BABD3,BindingName="Text7",Tracks=(MovieScene2DTransformTrack'"MovieScene2DTransformTrack_7"'),SortingOrder=15)
+         ObjectBindings(25)=(ObjectGuid=F8227C8B43E32685458144A13D58E6F4,BindingName="Text8",Tracks=(MovieScene2DTransformTrack'"MovieScene2DTransformTrack_8"'),SortingOrder=16)
+         ObjectBindings(26)=(ObjectGuid=FD3CD6564213960BB24FA4BE97978780,BindingName="Text9",Tracks=(MovieScene2DTransformTrack'"MovieScene2DTransformTrack_9"'),SortingOrder=17)
+         ObjectBindings(27)=(ObjectGuid=9E69FED64273BEC893E390BA2E7F7AD7,BindingName="TextA",Tracks=(MovieSceneFloatTrack'"MovieSceneFloatTrack_0"'),SortingOrder=18)
+         ObjectBindings(28)=(ObjectGuid=A30E567142379E82E0F8938E12DA44EA,BindingName="TextB",Tracks=(MovieSceneFloatTrack'"MovieSceneFloatTrack_1"'),SortingOrder=19)
+         ObjectBindings(29)=(ObjectGuid=CFB9085040D48CDAEB5F85946B1935BA,BindingName="TextC",Tracks=(MovieSceneFloatTrack'"MovieSceneFloatTrack_2"'),SortingOrder=20)
+         PlaybackRange=Inclusive:0:Exclusive:300005
+         DisplayRate=(Numerator=20)
+         EditorData=(ExpansionStates=(("80F07B0147378C5A2AC4F2B861001FD5.MovieScene2DTransformTrack_0", ()),("80F07B0147378C5A2AC4F2B861001FD5.MovieScene2DTransformTrack_0.Scale", ()),("80F07B0147378C5A2AC4F2B861001FD5.3FA43FA946A2CE38698E68817EAB90EC.MovieSceneMarginTrack_0", ()),("80F07B0147378C5A2AC4F2B861001FD5", ()),("8FAD571B496A24EB03295FA4DCDA56A9.BE882F9A446686882C2619B812F80CD8.MovieSceneMarginTrack_1", (bExpanded=False)),("8FAD571B496A24EB03295FA4DCDA56A9", (bExpanded=False)),("C59D160C4D3DD800218441B427A7CB21", (bExpanded=False)),("8D64FBC9466FA3F4F5CAEEAE584BE699.3A0D331D48C7260FB7B6048601700454.MovieSceneMarginTrack_3", (bExpanded=False)),("HorizontalBox1", ()),("HorizontalBox1.3FA43FA946A2CE38698E68817EAB90EC", ()),("HorizontalBox1.3FA43FA946A2CE38698E68817EAB90EC.MovieSceneMarginTrack_0", ()),("C59D160C4D3DD800218441B427A7CB21.1D846532466C5C0DE1CBCDA9FF344587", ()),("8FAD571B496A24EB03295FA4DCDA56A9.BE882F9A446686882C2619B812F80CD8", ()),("80F07B0147378C5A2AC4F2B861001FD5.3FA43FA946A2CE38698E68817EAB90EC", ()),("8D64FBC9466FA3F4F5CAEEAE584BE699", (bExpanded=False)),("8243C534491323B636577EA5D1DC4943", (bExpanded=False)),("2FC1BA4D4C2EFAC53C1C86859264F50E", (bExpanded=False)),("7DE835BD40A752B1A644CB85B9F704A4", (bExpanded=False)),("8080EC99474FC0C89C6D169E6B3A6513", (bExpanded=False)),("E78FEFC748CCA4D8F96517A26594E818", ()),("FE5231474264B745E6CCB7B13D9C045F", ()),("F8F145A84D3FEF58FEDF0CAD6D18D3A2", ()),("7003A04F46CBA98E6D4A45A4E3241941", ()),("FE5231474264B745E6CCB7B13D9C045F.MovieScene2DTransformTrack_1", ()),("FE5231474264B745E6CCB7B13D9C045F.MovieScene2DTransformTrack_1.Translation", (bExpanded=False)),("E78FEFC748CCA4D8F96517A26594E818.89158890494BDE5EDFEAB1A429D8204D", ()),("E78FEFC748CCA4D8F96517A26594E818.89158890494BDE5EDFEAB1A429D8204D.MovieSceneMarginTrack_8", ())),ViewStart=-0.403177,ViewEnd=5.596843,WorkStart=-0.508009,WorkEnd=5.596843)
+         Signature=AFBE275349273E96ABB00B9A398611E2
+      End Object
+      MovieScene=MovieScene'"intro"'
+      AnimationBindings(0)=(WidgetName="HorizontalBox1",AnimationGuid=80F07B0147378C5A2AC4F2B861001FD5)
+      AnimationBindings(1)=(WidgetName="HorizontalBox1",SlotWidgetName="CanvasPanelSlot_78",AnimationGuid=3FA43FA946A2CE38698E68817EAB90EC)
+      AnimationBindings(2)=(WidgetName="HorizontalBox2",AnimationGuid=8FAD571B496A24EB03295FA4DCDA56A9)
+      AnimationBindings(3)=(WidgetName="HorizontalBox2",SlotWidgetName="CanvasPanelSlot_59",AnimationGuid=BE882F9A446686882C2619B812F80CD8)
+      AnimationBindings(4)=(WidgetName="HorizontalBox3",AnimationGuid=C59D160C4D3DD800218441B427A7CB21)
+      AnimationBindings(5)=(WidgetName="HorizontalBox3",SlotWidgetName="CanvasPanelSlot_63",AnimationGuid=1D846532466C5C0DE1CBCDA9FF344587)
+      AnimationBindings(6)=(WidgetName="HorizontalBox4",AnimationGuid=8D64FBC9466FA3F4F5CAEEAE584BE699)
+      AnimationBindings(7)=(WidgetName="HorizontalBox4",SlotWidgetName="CanvasPanelSlot_67",AnimationGuid=3A0D331D48C7260FB7B6048601700454)
+      AnimationBindings(8)=(WidgetName="HorizontalBox5",AnimationGuid=8243C534491323B636577EA5D1DC4943)
+      AnimationBindings(9)=(WidgetName="HorizontalBox5",SlotWidgetName="CanvasPanelSlot_68",AnimationGuid=2548AFC6436E5C413BEECB9E09B35887)
+      AnimationBindings(10)=(WidgetName="HorizontalBox6",AnimationGuid=2FC1BA4D4C2EFAC53C1C86859264F50E)
+      AnimationBindings(11)=(WidgetName="HorizontalBox6",SlotWidgetName="CanvasPanelSlot_69",AnimationGuid=01F0C53E4C523EBEC54DFE8EDEBD944D)
+      AnimationBindings(12)=(WidgetName="HorizontalBox7",AnimationGuid=7DE835BD40A752B1A644CB85B9F704A4)
+      AnimationBindings(13)=(WidgetName="HorizontalBox7",SlotWidgetName="CanvasPanelSlot_73",AnimationGuid=35279DE346E03FAC3A673799609AF31F)
+      AnimationBindings(14)=(WidgetName="HorizontalBox8",AnimationGuid=8080EC99474FC0C89C6D169E6B3A6513)
+      AnimationBindings(15)=(WidgetName="HorizontalBox8",SlotWidgetName="CanvasPanelSlot_74",AnimationGuid=7652EECB48078650E8B7469EC7CB3C10)
+      AnimationBindings(16)=(WidgetName="HorizontalBox9",AnimationGuid=E78FEFC748CCA4D8F96517A26594E818)
+      AnimationBindings(17)=(WidgetName="HorizontalBox9",SlotWidgetName="CanvasPanelSlot_79",AnimationGuid=89158890494BDE5EDFEAB1A429D8204D)
+      AnimationBindings(18)=(WidgetName="Text1",AnimationGuid=FE5231474264B745E6CCB7B13D9C045F)
+      AnimationBindings(19)=(WidgetName="Text2",AnimationGuid=F8F145A84D3FEF58FEDF0CAD6D18D3A2)
+      AnimationBindings(20)=(WidgetName="Text3",AnimationGuid=7003A04F46CBA98E6D4A45A4E3241941)
+      AnimationBindings(21)=(WidgetName="Text4",AnimationGuid=0DA37A214C0004D2CE237E88D1C30BE4)
+      AnimationBindings(22)=(WidgetName="Text5",AnimationGuid=AFC0DF3F46ABB0EDDCACBABD88760213)
+      AnimationBindings(23)=(WidgetName="Text6",AnimationGuid=117A617D41890C86DFB0049833B22E51)
+      AnimationBindings(24)=(WidgetName="Text7",AnimationGuid=2B7724A1427E1D342814DAB37E3BABD3)
+      AnimationBindings(25)=(WidgetName="Text8",AnimationGuid=F8227C8B43E32685458144A13D58E6F4)
+      AnimationBindings(26)=(WidgetName="Text9",AnimationGuid=FD3CD6564213960BB24FA4BE97978780)
+      AnimationBindings(27)=(WidgetName="TextA",AnimationGuid=9E69FED64273BEC893E390BA2E7F7AD7)
+      AnimationBindings(28)=(WidgetName="TextB",AnimationGuid=A30E567142379E82E0F8938E12DA44EA)
+      AnimationBindings(29)=(WidgetName="TextC",AnimationGuid=CFB9085040D48CDAEB5F85946B1935BA)
+      DisplayLabel="intro"
+      Signature=67F5AB584FB6A69A575E2E834073B1FA
+   End Object
+   Animations(0)=WidgetAnimation'"intro"'
+   TickPrediction=OnDemand
+   TickPredictionReason="Anim"
+   ParentClass=Class'"/Script/UMG.UserWidget"'
+   BlueprintSystemVersion=2
+   UbergraphPages(0)=EdGraph'"EventGraph"'
+   CategorySorting(0)="Event Graph"
+   CategorySorting(1)="Animations"
+   CategorySorting(2)="Default"
+   CategorySorting(3)="WBP Graph 11 POMDALT"
+   LastEditedDocuments(0)=(EditedObjectPath=/Game/Km0MonCasteller/Virtual/GrafismosUI/WBP_Graph_11_POMDALT.WBP_Graph_11_POMDALT:EventGraph,SavedViewOffset=(X=-9342.906250,Y=-2891.316650),SavedZoomAmount=0.100000)
+   GeneratedClass=WidgetBlueprintGeneratedClass'"WBP_Graph_11_POMDALT_C"'
+   bLegacyNeedToPurgeSkelRefs=False
+   BlueprintGuid=8CBC27404B53577545381DA917BB2DDD
+End Object
